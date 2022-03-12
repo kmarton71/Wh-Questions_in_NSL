@@ -1,16 +1,19 @@
-#whq-cleaning2
+#WHQ_CLEANING2
 #Initial processing of data has been done, 
 #this file is to organize dataframe unique on item and participant
-#needs qc_frame and nm_frame
-#LAST EDITED BY KAT MARTON ON 2/14/2022
+#needs qc_frame and nm_frame as created by whq_cleaning file
+#LAST EDITED BY KAT MARTON ON 3/11/2022
 
+#WARNING: THIS CODE FILE IS ALSO VERY LONG
 library(tidyverse)
 library(lubridate)
 library(readxl)
 library(plyr)
 
-setwd("C:/Users/Owner/Documents/R/LLCD_R")
+#set to your own working directory
+#setwd("C:/Users/Owner/Documents/R/LLCD_R")
 
+#function to determine overlaps of qc with nonmanuals
 all_overlap <- function(row, set){
   overlaps <- c()
   for (ii in 1:nrow(set)){
@@ -25,6 +28,9 @@ qcf<- read.csv("qc_frame.csv")
 nmf <- read.csv("nm_frame.csv")
 nmf$nonmanual <- as.character(nmf$nonmanual)
 
+qcf$filename[qcf$filename=="145 (1)"]<-"145"
+nmf$filename[nmf$filename=="145 (1)"]<-"145"
+
 qcf$start <- ymd_hms(as.character(qcf$start))
 qcf$end <- ymd_hms(as.character(qcf$end))
 qcf$interval <- interval(qcf$start,qcf$end)
@@ -32,6 +38,8 @@ qcf$interval <- interval(qcf$start,qcf$end)
 nmf$start <- ymd_hms(as.character(nmf$start))
 nmf$end <- ymd_hms(as.character(nmf$end))
 nmf$interval <- interval(nmf$start, nmf$end)
+
+qcf <- qcf[qcf$filename=="145",]
 
 qcf$ht <- rep(0, nrow(qcf))
 qcf$cl <- rep(0, nrow(qcf))
@@ -66,7 +74,7 @@ qcf2 <- qcf %>%
 
 #DEMOGRAPHICS FILE,
 #manual cleaning 
-b <- read_excel("WHQ Participants.xlsx")
+b <- read_excel("WHQ Participants.xlsx")#NOT INCLUDED IN GIT, has personal info
 
 b <- b %>%
   dplyr::mutate(num=row_number())
@@ -104,11 +112,6 @@ b$filename[5] <- "51"
 nm_merged <- merge(nmf, b, by.x="filename", by.y="filename")
 qc_merged <- merge(qcf, b, by.x="filename", by.y="filename")
 
-# nm_final <- nm_merged%>%
-#   dplyr::rename(cohort = `Cohort (hearing, first, second, third)`, ID=`Participant ID`,year_tested=`year of testing`,age=`Age at Test`,year_entry = `Year of Entry`)%>%
-#   select(nonmanual,ID,duration,wh_word,wh_overlap,item,spanish,gloss,ht,cl,sr,fb,nw,rb,cohort,Name,Sex,age,year_tested,year_entry,interval)
-# #View(nm_final)
-
 nm_final <- nm_merged%>%
   dplyr::rename(cohort = `Cohort (hearing, first, second, third)`, ID=`Participant ID`,year_tested=`year of testing`,age=`Age at Test`,year_entry = `Year of Entry`)%>%
   select(nonmanual,ID,duration,wh_word,wh_overlap,item,spanish,gloss,cohort,Name,Sex,age,year_tested,year_entry,interval)
@@ -120,6 +123,12 @@ qc_final <- qc_merged %>%
   select(ID, filename,item,ht,cl,sr,fb,nw,rb,cohort,gloss,spanish,Name,Sex,age, year_tested,year_entry)
 
 
+qc3 <- read.csv("WHQ_ITEM.csv", header=T)%>%
+  select(-X)
+qc3[179,]$item="name"
+#some manual cleaning
+qc3$item[qc3$item=="motherâ???Ts birthday"]<-"mother's birthday"
 
+new_qc <- rbind(qc3, qc_final)
+write.csv(new_qc, "WHQ_ITEM.csv")
 write.csv(nm_final, "WHQ_NONMANUAL.csv")
-write.csv(qc_final, "WHQ_ITEM.csv")
