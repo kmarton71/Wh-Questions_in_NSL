@@ -1,10 +1,12 @@
 #LLCD WH-QUESTION STUDY
 #DATA CLEANING DOCUMENT
 #CREATED BY KAT MARTON 9-20-2021
-#LAST EDITED 2-16-2022 by KAT MARTON
+#LAST EDITED 3-11-2022 by KAT MARTON
 
 #ORGANIZATION OF FILE --------------------------
-#There are 4 dataframes
+#This file is the initial cleaning file, creating the nm and qc dataframes.
+#qc_cleaning is the next cleaning file. 
+#WARNING: The code in this file takes a VERY long time to run.
 #1 d, referring to the raw dataset from ELAN
 #2 nm, the frame of nonmanuals and their intervals
 #3 qc, the frame containing the question content intervals and item information
@@ -14,6 +16,7 @@
 #install.packages("tidyverse")
 #install.packages("lubridate")
 #install.packages("readxl")
+
 #CREATION OF d DATAFRAME--------------------------------
 library(tidyverse)
 library(lubridate)
@@ -156,7 +159,7 @@ for (ii in 1:nrow(nm)){
 
 write.csv(nm, "nm_frame.csv")
 
-#COMBINATIONS BETWEEN NONMANUALS
+#COMBINATIONS BETWEEN NONMANUALS --- IGNORE FOR NOW
 #New function: all_overlap, to calculate any and all (instead of just the first, as in one_overlap) interval overlaps.
 #This is matching one interval to all intervals in a dataset
 #First parameter is a row of a dataset that contains a variable called "interval" and a variable called "filename"
@@ -216,30 +219,5 @@ write.csv(nm, "nm_frame.csv")
 #new dataframe for combinations only: each row is a different combination?
 
 
-#FINALIZING QC DATAFRAME, -------------------------------------------------------------
-#each row is an ITEM
-#Each row should have a VARIABLE i.e. COLUMN for each NONMANUAL TYPE. The values in NONMANUAL TYPE are integers, 
-#i.e. 0,1,2 for how many of that nonmanual type occured during that question.
-#"Head tilt", "Chin lift", "Shoulder raise", "Furrowed brow", "Nose wrinkle", "Raised brow"
-#we need the QC intervals in order to uniquely identify items in nm dataframe.
-# nqc <- nmf %>%
-#   select(nonmanual,filename,item,gloss,spanish,wh_word)%>%
-#   mutate(ht=ifelse(nonmanual=="Head tilt",1,0),
-#          cl=ifelse(nonmanual=="Chin lift",1,0),
-#          sr=ifelse(nonmanual=="Shoulder raise",1,0),
-#          fb=ifelse(nonmanual=="Furrowed brow",1,0),
-#          nw=ifelse(nonmanual=="Nose wrinkle",1,0),
-#          rb=ifelse(nonmanual=="Raised brow",1,0),)
-# 
-# nmqc <- ddply(nqc,.(filename,item,gloss,spanish),summarize, ht=sum(ht),
-#                                   cl=sum(cl),
-#                                   sr=sum(sr),
-#                                   fb=sum(fb),
-#                                   nw=sum(nw),
-#                                   rb=sum(rb))
 
-#must create from qc dataframe, should have exactly 699 rows. 
-#cannot use nm because nm does not include the items with no nonmanuals elicited
-#using function all_overlap, which is unfortunate.
-#take each item interval and check to see if it overlaps with nm
 
