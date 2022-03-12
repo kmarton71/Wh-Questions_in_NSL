@@ -12,7 +12,7 @@ library(dplyr)
 setwd("C:/Users/Owner/Documents/R/LLCD_R")
 
 # STEP 1: RELIABILITY DATAFRAME ----------------------------
-r <- read.delim("rel_recoded.txt", header=F)
+r <- read.delim("rel_recodedv2.txt", header=F)
 
 #cleaning filename 
 r$filename <- str_sub(as.character(r$V7), 1, -5)
@@ -125,29 +125,28 @@ b$filename[5] <- "51"
 qc_r_merged <- merge(qc_r, b, by.x="filename", by.y="filename")%>%
   dplyr::rename(ID = `Participant ID`)
 qc_r_final <- qc_r_merged%>%
-  select(ID,item,ht,cl,sr,fb,nw,rb)
+  select(ID,item,interval,ht,cl,sr,fb,nw,rb)
 
 write.csv(qc_r_final, "rel_frame.csv")
 
 # STEP 3: ORIGINAL DATA SUBSET CORRESPONDING TO RELIABILITY ---------------------
-nm <- read.csv("WHQ_NONMANUAL.csv", header=T)
-qc_orig <- read.csv("WHQ_ITEM.csv", header=T)
+nm <- read.csv("WHQ_NONMANUAL_v2.csv", header=T)
+qc_orig <- read.csv("WHQ_ITEM_v2.csv", header=T)
 rel <- read.csv("rel_frame.csv", header=T) %>%
   select(-X)
 
 ids <- unique(rel$ID)
 original <- qc_orig %>%
-  select(ID, item, ht, cl, sr, fb, nw, rb)%>%
+  select(ID, item, interval, ht, cl, sr, fb, nw, rb)%>%
+  dplyr::rename(ht2=ht,cl2=cl,sr2=sr,fb2=fb,nw2=nw,rb2=rb)%>%
   filter(ID %in% ids)
 
-View(rel[rel$ID=="264.0",])
-View(original[original$ID=="264.0",])
+cr <- merge(original, rel, by=c("ID", "item", "interval"))
 
-#261, 51, 191, 568, 410, JP0769H (896)
-#264 2116
-#77 16v15
+nrow(rel[rel$ID=="191.0",])
+nrow(cr[cr$ID=="191.0",])
 
-
+unique(cr$item)
 #RELIABILITY ANALYSIS-------
 #arrange data by item, have #of nonmanuals and types
 #each nonmanual for coder 1 and coder 2
