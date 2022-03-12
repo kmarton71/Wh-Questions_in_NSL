@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-12-10T21:21:33-05:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/kristiannny/Desktop/2010 WH 04 small.mov"
+            MIME_TYPE="video/quicktime" RELATIVE_MEDIA_URL="./2010 WH 04 small.mov"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:649c7789-d84f-48e0-9624-a165236a6054</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">81</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="2750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="2750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="2750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="5629"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="5629"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="5629"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="6107"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="6447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="7506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="7506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="7506"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="47090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="47090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="47090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="47120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="47350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="48120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="48140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="48140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="49771"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="49781"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="49790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="49790"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="49806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="50011"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="50732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="50732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="50741"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="50756"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="53026"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="53026"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="53026"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="54981"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="54981"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="54981"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="60213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="60213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="60411"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="60411"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="60423"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="60753"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="61533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="61775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="61775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="61783"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="67972"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="67972"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="67972"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="69522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="69622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="70717"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="71857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="72173"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="72173"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="72173"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="73120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="73120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="73120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="73395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="73995"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="75321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="75321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="75321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="80821"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="80821"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="80821"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="80821"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="81041"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="82241"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="82242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="82242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="91281"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="91281"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="91281"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="91757"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="91877"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="93773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="93773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="93773"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="103710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="103710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="103710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="105625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="105805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="108201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="108201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="108201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="114950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="114950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="114950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="115069"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="115489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="115774"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="116494"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="116619"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="117019"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="121209"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="121209"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="121209"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="128600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="128600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="128600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="129456"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="129626"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="130533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="130533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="130533"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="138990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="138990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="138990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="139040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="139095"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="139350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="140255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="142110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="142110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="142110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="148565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="148565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="148565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="150362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="150572"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="150582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="151832"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="152920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="152920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="152937"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="158362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="158367"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="158390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="158390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="158622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="158872"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="159287"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="159862"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="160552"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="161052"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="161054"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="161054"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="162512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="162517"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="162560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="162560"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="162582"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="162707"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="163202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="163832"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="163834"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="163834"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Spanish">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Como te llamas?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Cuantos años tienes?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>Como te llamas?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>Que eda tienes?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>La dirrecion de tu casa?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Cuando cumples años?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Cuando ibas a tu escuela en que te transportabas o te ibas? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Te quedaba cerca tu escuela?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>Cuantos hermanos tienes?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>A que hora te levantas por la mañana?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>El bus que te queda mas cerca para llevarte a tu casa?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Cual es-Cual es la routa que te lleva o que te deja mas cerca a tu casa?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>Normalmente, a que hora cenas?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>Cual era el nombre de tu professora?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>Que dia es el cumpleaños de tu mama?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts143">
+                <ANNOTATION_VALUE>En que te ibas para la universidad?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE>Que routa te llevaba?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="English GLOSS">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>What's your name?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>How old are you?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>What's your name?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>How old are you?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>The direction of your house?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>When is your birthday?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>When you use to go to school what did you travel in or what did you go in?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>Was your school close?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>How many siblings do you have?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>At what hour would you get up in the morning?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts91">
+                <ANNOTATION_VALUE>The bus that is closest to you that takes you to your house?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts103">
+                <ANNOTATION_VALUE>What is-What is the route that takes you or takes you closest to your house?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts106" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>Normally, at what time do you eat dinner?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts114" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE>What is the name of your professor?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE>What is your mother's birthday?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>What did you go in to go to university?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts148" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>What route would take you?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Wh Question" TIER_ID="Wh word">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                CVE_REF="cveid_c2579442-9eb6-45ac-a7c9-c2bfdb2141cb"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>Como</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
+                CVE_REF="cveid_30ed9129-81b3-4a6e-880c-56b9080b751b"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>Cuantos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79"
+                CVE_REF="cveid_c2579442-9eb6-45ac-a7c9-c2bfdb2141cb"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts21">
+                <ANNOTATION_VALUE>Como</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
+                CVE_REF="cveid_02473010-3d3c-4904-a192-1f0ecc8c2f5f"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
+                CVE_REF="cveid_93b089ed-10e6-4465-8952-97e5c0300183"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Cuando</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                CVE_REF="cveid_02473010-3d3c-4904-a192-1f0ecc8c2f5f"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>Que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                CVE_REF="cveid_30ed9129-81b3-4a6e-880c-56b9080b751b"
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts73">
+                <ANNOTATION_VALUE>Cuantos</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                CVE_REF="cveid_02473010-3d3c-4904-a192-1f0ecc8c2f5f"
+                TIME_SLOT_REF1="ts80" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE>Que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                CVE_REF="cveid_02473010-3d3c-4904-a192-1f0ecc8c2f5f"
+                TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE>Que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                CVE_REF="cveid_9c60a08b-6164-4464-a328-be7f532e27d0"
+                TIME_SLOT_REF1="ts96" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>Cual</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                CVE_REF="cveid_9c60a08b-6164-4464-a328-be7f532e27d0"
+                TIME_SLOT_REF1="ts100" TIME_SLOT_REF2="ts101">
+                <ANNOTATION_VALUE>Cual</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                CVE_REF="cveid_02473010-3d3c-4904-a192-1f0ecc8c2f5f"
+                TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts109">
+                <ANNOTATION_VALUE>Que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                CVE_REF="cveid_9c60a08b-6164-4464-a328-be7f532e27d0"
+                TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>Cual</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                CVE_REF="cveid_02473010-3d3c-4904-a192-1f0ecc8c2f5f"
+                TIME_SLOT_REF1="ts126" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>Que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                CVE_REF="cveid_02473010-3d3c-4904-a192-1f0ecc8c2f5f"
+                TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>Que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
+                CVE_REF="cveid_02473010-3d3c-4904-a192-1f0ecc8c2f5f"
+                TIME_SLOT_REF1="ts146" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>Que</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Raised brow">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
+                TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Furrowed brow"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Chin lift">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54"
+                TIME_SLOT_REF1="ts98" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55"
+                TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
+                TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts129">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
+                TIME_SLOT_REF1="ts140" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts151">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Nose wrinkle"/>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Head tilt">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
+                TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="Shoulder raise"/>
+    <TIER LINGUISTIC_TYPE_REF="Q Content" TIER_ID="Q Content">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62"
+                CVE_REF="cveid_634a470a-11d5-4a13-acab-7ff44381aa7a"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>name</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63"
+                CVE_REF="cveid_dd987215-9717-4ac1-862c-02885a1fe546"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>age</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64"
+                CVE_REF="cveid_634a470a-11d5-4a13-acab-7ff44381aa7a"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>name</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65"
+                CVE_REF="cveid_dd987215-9717-4ac1-862c-02885a1fe546"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>age</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66"
+                CVE_REF="cveid_67166096-6228-48f7-b57c-ddaaf0aa3aad"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>town</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67"
+                CVE_REF="cveid_7c79dd2b-f015-4cc5-bda1-50c0422c9f76"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>birthday</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
+                CVE_REF="cveid_7abe2221-4acd-4e08-8750-6fd67903110b"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>transportation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
+                CVE_REF="cveid_e93f69b1-6977-453b-88dd-1f7aa71d6015"
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>other</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70"
+                CVE_REF="cveid_3b22d79d-6bc3-4c9e-8c84-34f02d002e09"
+                TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>siblings</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71"
+                CVE_REF="cveid_9914c936-72b4-4812-b8c7-848b0b2773ff"
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>wake up time</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72"
+                CVE_REF="cveid_7abe2221-4acd-4e08-8750-6fd67903110b"
+                TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>transportation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73"
+                CVE_REF="cveid_7abe2221-4acd-4e08-8750-6fd67903110b"
+                TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>transportation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74"
+                CVE_REF="cveid_c5ef0f6d-83b8-479d-9259-d0d7fd2eac7f"
+                TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>time</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75"
+                CVE_REF="cveid_8eeb40a3-0373-4c88-a4b6-666fb46def4c"
+                TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>teacher</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                CVE_REF="cveid_bdfc4084-7a07-472a-9069-71ca0e21a20a"
+                TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>mother's birthday</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77"
+                CVE_REF="cveid_7abe2221-4acd-4e08-8750-6fd67903110b"
+                TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>transportation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                CVE_REF="cveid_7abe2221-4acd-4e08-8750-6fd67903110b"
+                TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>transportation</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="Wh Question"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Wh Question" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="Q Content"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Q Content" TIME_ALIGNABLE="true"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Q Content">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_634a470a-11d5-4a13-acab-7ff44381aa7a">
+            <CVE_VALUE LANG_REF="und">name</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3b22d79d-6bc3-4c9e-8c84-34f02d002e09">
+            <CVE_VALUE LANG_REF="und">siblings</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7c79dd2b-f015-4cc5-bda1-50c0422c9f76">
+            <CVE_VALUE LANG_REF="und">birthday</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_dd987215-9717-4ac1-862c-02885a1fe546">
+            <CVE_VALUE LANG_REF="und">age</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_08a8069d-a6fd-42e8-b06c-72ace218e989">
+            <CVE_VALUE LANG_REF="und">job</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fa28f9be-24ea-4110-b90b-afa19c4f7160">
+            <CVE_VALUE LANG_REF="und">favorite food</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_67166096-6228-48f7-b57c-ddaaf0aa3aad">
+            <CVE_VALUE LANG_REF="und">town</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4addd337-e659-4901-a9c7-0c6c0fbe8cd9">
+            <CVE_VALUE LANG_REF="und">friend</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_bdfc4084-7a07-472a-9069-71ca0e21a20a">
+            <CVE_VALUE LANG_REF="und">mother's birthday</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_369c4b79-3a1c-47ef-9ed0-3c2bba32bd37">
+            <CVE_VALUE LANG_REF="und">bed time</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9914c936-72b4-4812-b8c7-848b0b2773ff">
+            <CVE_VALUE LANG_REF="und">wake up time</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0cfc5a2a-ad2e-4b48-9f78-69d1efa15631">
+            <CVE_VALUE LANG_REF="und">supermarket</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7abe2221-4acd-4e08-8750-6fd67903110b">
+            <CVE_VALUE LANG_REF="und">transportation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8eeb40a3-0373-4c88-a4b6-666fb46def4c">
+            <CVE_VALUE LANG_REF="und">teacher</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c5ef0f6d-83b8-479d-9259-d0d7fd2eac7f">
+            <CVE_VALUE LANG_REF="und">time</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e93f69b1-6977-453b-88dd-1f7aa71d6015">
+            <CVE_VALUE LANG_REF="und">other</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Wh Question">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_02473010-3d3c-4904-a192-1f0ecc8c2f5f">
+            <CVE_VALUE LANG_REF="und">Que</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_93b089ed-10e6-4465-8952-97e5c0300183">
+            <CVE_VALUE LANG_REF="und">Cuando</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c2579442-9eb6-45ac-a7c9-c2bfdb2141cb">
+            <CVE_VALUE LANG_REF="und">Como</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_30ed9129-81b3-4a6e-880c-56b9080b751b">
+            <CVE_VALUE LANG_REF="und">Cuantos</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9c60a08b-6164-4464-a328-be7f532e27d0">
+            <CVE_VALUE LANG_REF="und">Cual</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_87e98073-9f4c-4024-ae6d-ef218078c9e3">
+            <CVE_VALUE LANG_REF="und">Question</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_51ae2455-dafe-4d25-8d5c-4fc20d66a0f3">
+            <CVE_VALUE LANG_REF="und">Adonde</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
