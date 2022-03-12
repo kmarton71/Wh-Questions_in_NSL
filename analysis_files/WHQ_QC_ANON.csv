@@ -1,0 +1,677 @@
+"","ID","item","ht","cl","sr","fb","nw","rb","cohort","gloss","spanish","Sex","age","year_tested","year_entry"
+"1",34,"age",0,0,0,0,0,0,"hearing","how old are you?","que edad tienes?","F",27.6,2010,NA
+"2",35,"age",0,1,1,0,0,0,"hearing","how old are you","que edad tienes?","F",30.2,2010,NA
+"3",1,"age",1,0,0,0,0,0,"second","YOU YEAR",NA,"F",24.4,2008,1989
+"4",42,"age",0,0,1,0,0,0,"hearing","How old are you?","Cuantos anos tienes?","M",29.4,2011,NA
+"5",42,"age",0,0,0,0,0,1,"hearing","How old are you?","Cuantos anos tienes?","M",29.4,2011,NA
+"6",43,"age",0,0,0,0,0,0,"hearing","How old are you","Cuanto anos tienes?","M",26,2011,NA
+"7",44,"age",0,0,0,0,0,0,"hearing","How old are you?","Cuanto anos tienes","M",27.6,2011,NA
+"8",2,"age",0,0,0,0,0,0,"second","YOU YEAR QUESTION",NA,"M",21.9,2008,1990
+"9",4,"age",1,0,0,0,0,0,"second","YEARS",NA,"M",27.2,2009,1986
+"10",5,"age",1,0,0,1,0,0,"second","YOU YEAR YOU",NA,"M",26.2,2008,1986
+"11",13,"age",0,0,0,1,0,0,"second","YEARS","","F",34.1,2017,1985
+"12",17,"age",0,0,0,0,0,0,"first","YEARS YOU",NA,"F",36.5,2017,1977
+"13",28,"age",1,1,0,1,1,0,"third","HAVE YEARS YOU","","M",21.9,2017,1999
+"14",47,"age",1,0,0,0,0,0,"hearing","how old are you?","cuantos años tienes?","F",37.9,2017,NA
+"15",50,"age",0,0,0,0,0,1,"hearing","Your age?","Tu edad?","F",43.5,2017,NA
+"16",23,"age",0,0,0,3,2,0,"third","HOW HAVE E SORRY HOW HAVE YEARS",NA,"F",23.8,2017,1997
+"17",6,"age",0,1,0,0,1,0,"second","YEARS",NA,"F",29.8,2011,1987
+"18",7,"age",1,1,0,0,0,0,"first","YOU YEAR",NA,"F",31.8,2008,1983
+"19",8,"age",0,1,0,0,0,1,"first","YEAR YOU YEAR",NA,"F",40.1,2008,1974
+"20",8,"age",0,1,0,0,1,0,"first","T U (fs) E D A D (fs) WHAT",NA,"F",40.1,2008,1974
+"21",39,"age",1,0,0,1,0,0,"hearing","Love, what age are you","Amor, que edad tienes?","M",24.7,2010,NA
+"22",38,"age",0,0,0,0,0,1,"hearing","How old are you?","Que edad tu tienes?","F",28.7,2010,NA
+"23",41,"age",0,1,0,1,0,0,"hearing","How old are you?","Que edad tienes?","F",24.8,2010,NA
+"24",34,"age",0,0,0,0,0,0,"hearing","How old are you?","Que edad tienes?","F",NA,2010,NA
+"25",36,"age",0,0,0,0,0,1,"hearing","How old are you?","Cuantos anos tienes?","M",23.8,2010,NA
+"26",36,"age",0,0,0,0,0,0,"hearing","How old are you?","Cuantos anos tienes?","M",23.8,2010,NA
+"27",37,"age",0,1,0,0,0,0,"hearing","How old are you?","Que eda tienes?","F",55.3,2010,NA
+"28",37,"age",0,0,0,0,0,0,"hearing","How old are you?","Cuantos años tienes?","F",55.3,2010,NA
+"29",9,"age",1,0,0,0,0,0,"first","YOU YEAR",NA,"M",31,2008,1983
+"30",10,"age",0,1,0,0,1,0,"second","YEAR QUESTION",NA,"F",27.2,2009,1987
+"31",11,"age",1,1,0,1,0,0,"second"," QUESTION YOU YEAR",NA,"M",23.1,2008,1989
+"32",14,"age",0,0,0,1,1,0,"second","YOU YEAR QUESTION",NA,"F",23.3,2008,1989
+"33",15,"age",0,0,0,1,1,0,"third","QUESTION YEARS WHAT",NA,"F",28.8,2017,1994
+"34",18,"age",0,0,0,1,0,1,"third","QUESTION YEAR",NA,"M",19.3,2009,1993
+"35",19,"age",0,1,0,1,0,0,"third","QUESTION YEAR",NA,"M",18.7,2009,1993
+"36",20,"age",1,0,0,1,0,0,"second","QUESTION YOU YEAR WHAT",NA,"M",23.9,2008,1990
+"37",21,"age",0,0,0,0,0,0,"second","QUESTION YOU YEAR YOU",NA,"M",21.5,2008,1990
+"38",22,"age",0,0,0,1,1,0,"first","YOU YEAR",NA,"M",30.5,2008,1978
+"39",24,"age",0,0,0,0,0,0,"first","YOU YEAR YOU",NA,"M",30.9,2008,1980
+"40",25,"age",0,0,0,0,0,0,"third","YOU HAVE YEAR",NA,"F",19.4,2009,1994
+"41",26,"age",0,0,0,0,0,0,"first","E-D-A-D YEAR YOU E-D-A-D YEAR YOU",NA,"M",50,2017,1974
+"42",26,"age",0,0,0,0,0,0,"first","YEAR... YEARS",NA,"M",50,2017,1974
+"43",27,"age",1,0,0,1,0,0,"third","QUESTION YOU HAVE YEARS",NA,"M",23.4,2017,1998
+"44",29,"age",0,1,0,0,0,1,"third","YEAR YOU YEAR",NA,"M",15.9,2009,1997
+"45",30,"age",0,0,0,1,0,0,"third","ME YOU YEARS YOU",NA,"F",16.1,2010,1998
+"46",31,"age",0,0,0,0,0,0,"first","YOU E-D-A-D YEAR",NA,"M",30.5,2008,1982
+"47",32,"age",0,1,0,2,0,0,"first","YOU YEARS YOU YEARS YOU",NA,"M",42.8,2017,1979
+"48",33,"age",0,0,0,0,0,0,"first","YOU YOU YEARS YOU",NA,"F",31,2008,1983
+"49",45,"age",0,1,0,1,1,0,"second","YEAR QUESTION YEAR",NA,"F",26.5,2011,1990
+"50",46,"age",0,1,0,0,0,0,"hearing","and your age?","y tu edad?","M",17,2017,NA
+"51",48,"age",1,0,1,0,0,1,"hearing","And what is your age?","Y que edad tienes?","F",20.6,2017,NA
+"52",49,"age",0,1,0,0,0,0,"hearing","Your age?","Tu edad?","M",32.2,2017,NA
+"53",49,"age",1,0,1,1,0,0,"hearing","How old are you getting? ","Cuanto cumples?","M",32.2,2017,NA
+"54",3,"age",1,0,0,0,0,0,"second","YOU HAVE YEARS YOU",NA,"F",21.8,2008,1990
+"55",26,"age",0,0,0,0,0,0,"first","ME QUESTION E-D-A-D",NA,"M",50,2017,1974
+"56",26,"age",0,0,0,0,0,0,"first","SIGN YEAR",NA,"M",50,2017,1974
+"57",1,"bed time",0,0,0,0,0,1,"second","TIME NIGHT BEFORE WRONG BEFORE (*she's correcting the last question)",NA,"F",24.4,2008,1989
+"58",2,"bed time",0,0,0,0,0,0,"second","TIME OF NIGHT",NA,"M",21.9,2008,1990
+"59",5,"bed time",1,1,0,0,0,0,"second","TIME NIGHT (inc) SLEEP SLEEP YOU",NA,"M",26.2,2008,1986
+"60",13,"bed time",0,0,0,1,1,0,"second","TIME BED DARK YOU TIME","","F",34.1,2017,1985
+"61",17,"bed time",0,0,0,0,0,1,"first","TIME BED YOU ... NIGHT",NA,"F",36.5,2017,1977
+"62",28,"bed time",1,1,0,2,0,0,"third","TIME BED WHAT","","M",21.9,2017,1999
+"63",47,"bed time",0,0,0,0,0,0,"hearing","what time do you go to bed?","a que hora acuestas a la noche?","F",37.9,2017,NA
+"64",9,"bed time",1,0,0,0,0,0,"first","TIME SLEEP WHAT",NA,"M",31,2008,1983
+"65",10,"bed time",0,1,0,1,2,0,"second","TIME NIGHT HOW BED/SLEEP YOU",NA,"F",27.2,2009,1987
+"66",11,"bed time",1,1,0,1,0,1,"second","QUESTION TIME BED YOU",NA,"M",23.1,2008,1989
+"67",14,"bed time",1,0,0,0,0,0,"second","YOU (inc) TIME YOU SLEEP NIGHT YOU QUESTION",NA,"F",23.3,2008,1989
+"68",15,"bed time",0,0,1,1,1,0,"third","BED TIME WHAT QUESTION",NA,"F",28.8,2017,1994
+"69",20,"bed time",0,1,0,1,0,0,"second","QUESTION TIME BED",NA,"M",23.9,2008,1990
+"70",21,"bed time",1,0,1,1,1,0,"second","YOU QUESTION YOU WHAT TIME BED WHAT TIME YOU",NA,"M",21.5,2008,1990
+"71",22,"bed time",0,0,0,0,0,0,"first","YOU TIME BED TIME YOU",NA,"M",30.5,2008,1978
+"72",25,"bed time",0,0,0,0,1,0,"third","TIME YOU BED",NA,"F",19.4,2009,1994
+"73",29,"bed time",0,0,0,0,0,0,"third","TIME YOUR BED",NA,"M",15.9,2009,1997
+"74",32,"bed time",0,0,0,1,1,0,"first","TIME NIGHT BED",NA,"M",42.8,2017,1979
+"75",33,"bed time",0,0,0,0,0,1,"first","TIME DE BED",NA,"F",31,2008,1983
+"76",46,"bed time",0,1,0,0,0,1,"hearing","at what time do you go to bed at night?","a que hora te acuestas a noche?","M",17,2017,NA
+"77",48,"bed time",1,1,0,0,0,0,"hearing","What time did you go to sleep? ","Que hora te acostastes en la noche?","F",20.6,2017,NA
+"78",49,"bed time",0,0,0,0,0,0,"hearing","At what time did you go to sleep?","A que hora te acostastes en la noche?","M",32.2,2017,NA
+"79",3,"bed time",0,0,0,0,0,1,"second","TIME BED TIME BED",NA,"F",21.8,2008,1990
+"80",34,"birthday",0,0,0,0,0,0,"hearing","when is your birthday?","cuando cumpleanos?","F",27.6,2010,NA
+"81",35,"birthday",2,0,0,0,0,0,"hearing","what day is your birthday?","que dia es cumpleanos?","F",30.2,2010,NA
+"82",1,"birthday",0,0,0,0,0,0,"second","YOU HAVE BIRTHDAY",NA,"F",24.4,2008,1989
+"83",42,"birthday",0,1,0,0,0,0,"hearing","When is your birthday?","Cuando cumples anos?","M",29.4,2011,NA
+"84",42,"birthday",0,0,0,0,0,1,"hearing","And your date of birth?","Y la fecha que nacistes?","M",29.4,2011,NA
+"85",43,"birthday",0,0,0,0,0,0,"hearing","When is your birthday? ","Cual es la fecha de tu cumpleanos","M",26,2011,NA
+"86",44,"birthday",1,0,1,1,0,0,"hearing","And when is your birthday?","Y cuando es tu cumpleanos?","M",27.6,2011,NA
+"87",44,"birthday",0,0,0,0,0,0,"hearing","Name or birthday of your mom/","Nombre or cumpleanos de tu mama?","M",27.6,2011,NA
+"88",2,"birthday",0,0,0,0,0,0,"second","BIRTHDAY QUESTION YOU",NA,"M",21.9,2008,1990
+"89",4,"birthday",0,0,0,0,0,0,"second","BIRTHDAY YOU",NA,"M",27.2,2009,1986
+"90",5,"birthday",0,0,0,1,0,0,"second","YOU BIRTHDAY YOU BIRTHDAY",NA,"M",26.2,2008,1986
+"91",13,"birthday",0,0,0,1,0,0,"second","YOU BIRTHDAY YOU WHAT","","F",34.1,2017,1985
+"92",17,"birthday",0,0,0,0,0,0,"first","BIRTHDAY YOU",NA,"F",36.5,2017,1977
+"93",28,"birthday",1,0,0,1,0,0,"third","YOU BIRTHDAY WHEN BIRTHDAY","","M",21.9,2017,1999
+"94",28,"birthday",1,0,0,0,0,0,"third","MAMA WHEN BIRTHDAY ","","M",21.9,2017,1999
+"95",50,"birthday",0,0,0,0,0,0,"hearing","When is your birthday? ","Cuando cumples anos?","F",43.5,2017,NA
+"96",23,"birthday",1,0,0,0,0,0,"third","WHEN BIRTHDAY",NA,"F",23.8,2017,1997
+"97",6,"birthday",1,0,0,1,0,0,"second","BIRTHDAY",NA,"F",29.8,2011,1987
+"98",6,"birthday",0,0,0,0,0,1,"second","YOU BIRTHDAY MAMA",NA,"F",29.8,2011,1987
+"99",7,"birthday",1,1,0,0,0,0,"first","BIRTHDAY WHAT",NA,"F",31.8,2008,1983
+"100",8,"birthday",0,0,0,1,2,2,"first"," C U M P L E A N O S (fs) YOU BIRTHDAY (inc) HAPPY BIRTHDAY HAPPY… WHAT WHEN WHAT",NA,"F",40.1,2008,1974
+"101",39,"birthday",0,0,0,1,0,0,"hearing","And the date of your birthday?","Y la fecha de tu cumpleanos?","M",24.7,2010,NA
+"102",38,"birthday",1,0,0,0,0,0,"hearing","When is your birthday?","Cuando cumples anos?","F",28.7,2010,NA
+"103",41,"birthday",0,0,0,0,0,0,"hearing","When is your birthday?","Cuando cumples anos?","F",24.8,2010,NA
+"104",34,"birthday",0,0,0,0,0,1,"hearing","When is your birthday?","Cuando cumple años?","F",NA,2010,NA
+"105",36,"birthday",0,0,0,0,0,1,"hearing","When is your birthday?","Cuando cumples anos?","M",23.8,2010,NA
+"106",37,"birthday",0,1,0,0,0,0,"hearing","When is your birthday?","Cuando cumples años?","F",55.3,2010,NA
+"107",9,"birthday",0,0,0,0,0,0,"first","BIRTHDAY",NA,"M",31,2008,1983
+"108",10,"birthday",0,0,0,0,0,1,"second","BIRTHDAY YOU BIRTHDAY",NA,"F",27.2,2009,1987
+"109",11,"birthday",0,1,0,1,0,0,"second","YOU pause QUESTION YOU BIRTHDAY",NA,"M",23.1,2008,1989
+"110",11,"birthday",1,1,0,1,0,1,"second","QUESTION YOU MOTHER BIRTHDAY WHAT (inc)QUESTION,T=Wh word,B=87070,E=87750",NA,"M",23.1,2008,1989
+"111",12,"birthday",1,1,0,0,1,2,"third","YOU WHAT BIRTHDAY WHAT",NA,"M",17.9,2010,1998
+"112",14,"birthday",1,0,0,1,0,0,"second","BIRTHDAY QUESTION YOU",NA,"F",23.3,2008,1989
+"113",15,"birthday",0,0,1,1,1,0,"third","QUESTION YOU BIRTHDAY WHEN BIRTHDAY WHEN",NA,"F",28.8,2017,1994
+"114",16,"birthday",1,0,0,1,0,0,"third","YOU BIRTHDAY",NA,"M",18,2010,1997
+"115",18,"birthday",0,0,0,1,0,0,"third","QUESTION BIRTHDAY",NA,"M",19.3,2009,1993
+"116",19,"birthday",0,0,0,1,0,0,"third","WHEN BIRTHDAY QUESTION",NA,"M",18.7,2009,1993
+"117",20,"birthday",1,0,0,1,0,0,"second","QUESTION YOU BIRTHDAY",NA,"M",23.9,2008,1990
+"118",21,"birthday",0,0,0,1,0,0,"second","QUESTION YOU BIRTHDAY YOU WHAT (inc)",NA,"M",21.5,2008,1990
+"119",22,"birthday",0,0,0,0,0,0,"first","BIRTHDAY YOU",NA,"M",30.5,2008,1978
+"120",24,"birthday",0,0,0,1,1,0,"first","YOU BIRTHDAY WHEN WHEN",NA,"M",30.9,2008,1980
+"121",25,"birthday",0,0,0,1,0,0,"third","WHEN YOU BIRTHDAY",NA,"F",19.4,2009,1994
+"122",25,"birthday",2,0,0,0,0,0,"third","YOU WHEN YOU (shakes head)… BIRTHDAY YOU (shakes head)… QUESTION YOU (inc) BIRTHDAY YOU MOTHER",NA,"F",19.4,2009,1994
+"123",26,"birthday",0,0,0,0,0,0,"first","BIRTHDAY WHAT",NA,"M",50,2017,1974
+"124",27,"birthday",0,0,0,1,0,0,"third","QUESTION YOU WHEN YOUBIRTHDAY",NA,"M",23.4,2017,1998
+"125",29,"birthday",0,0,0,0,0,0,"third","BIRTHDAY WHAT",NA,"M",15.9,2009,1997
+"126",30,"birthday",1,1,0,1,0,0,"third","YOU BIRTHDAY FELIZ",NA,"F",16.1,2010,1998
+"127",31,"birthday",0,0,0,0,0,0,"first","BIRTHDAY YOU",NA,"M",30.5,2008,1982
+"128",31,"birthday",1,1,0,0,0,0,"first","BIRTHDAY DE YOU MAMA",NA,"M",30.5,2008,1982
+"129",32,"birthday",0,0,0,0,0,1,"first","BIRTHDAY YOU BIRTHDAY",NA,"M",42.8,2017,1979
+"130",33,"birthday",0,0,0,1,1,0,"first","YOU BIRTHDAY WHAT YOU",NA,"F",31,2008,1983
+"131",45,"birthday",0,0,0,0,0,0,"second","BIRTHDAY",NA,"F",26.5,2011,1990
+"132",46,"birthday",0,0,0,0,0,0,"hearing","what day is your birthday?","Y el dia de tu cumpleaños?","M",17,2017,NA
+"133",48,"birthday",1,1,1,0,0,1,"hearing","What is the date of your birthday?","Cual es la fecha de tu cumpleanos?","F",20.6,2017,NA
+"134",49,"birthday",0,1,0,0,0,0,"hearing","And your birthday? When is your birthday?","Y tu cumpleanos? Cuando cumples anos?","M",32.2,2017,NA
+"135",3,"birthday",0,0,0,0,0,0,"second","BIRTHDAY YOU BIRTHDAY",NA,"F",21.8,2008,1990
+"136",1,"favorite food",0,0,0,0,0,0,"second","EAT FAVORITE(ASL) EAT FAVORITE(ASL) EAT",NA,"F",24.4,2008,1989
+"137",2,"favorite food",0,0,0,0,0,0,"second","EAT FAVORITE(ASL) YOU",NA,"M",21.9,2008,1990
+"138",5,"favorite food",1,0,1,2,0,1,"second","COOK FAVORITE/LIKE WHAT",NA,"M",26.2,2008,1986
+"139",13,"favorite food",0,0,0,1,0,0,"second","YOUR FOOD FAVORITE MOST FOOD","","F",34.1,2017,1985
+"140",17,"favorite food",0,0,0,0,0,1,"first","YOU YOU EAT MORE EAT MORE EAT YOU LIKE YOU",NA,"F",36.5,2017,1977
+"141",17,"favorite food",0,0,0,0,0,1,"first","YOU EAT LIKE MORE EAT XXX YOU",NA,"F",36.5,2017,1977
+"142",28,"favorite food",1,1,1,1,1,1,"third","YOU LIKE WHICH MOST FOOD WHAT","","M",21.9,2017,1999
+"143",47,"favorite food",1,0,0,0,0,0,"hearing","what is your favorite food?","cual es tu comida favorita?","F",37.9,2017,NA
+"144",50,"favorite food",0,0,0,0,0,1,"hearing","And your favorite food?","Y tu comida favorita?","F",43.5,2017,NA
+"145",6,"favorite food",1,1,0,1,1,1,"second","HOUR POINT HOUR HUNGRY C-E EAT",NA,"F",29.8,2011,1987
+"146",7,"favorite food",1,0,0,1,0,0,"first","FOOD PLEASE",NA,"F",31.8,2008,1983
+"147",8,"favorite food",0,0,0,2,0,1,"first","FOOD PLEASE FOOD WHAT PLEASE WHAT ",NA,"F",40.1,2008,1974
+"148",9,"favorite food",0,1,0,0,0,0,"first","FOOD PLEASE",NA,"M",31,2008,1983
+"149",11,"favorite food",1,0,0,0,0,0,"second"," QUESTION FOOD PLEASE",NA,"M",23.1,2008,1989
+"150",14,"favorite food",0,0,1,1,1,0,"second","YOU FOOD LIKE QUESTION WHAT",NA,"F",23.3,2008,1989
+"151",20,"favorite food",1,0,0,1,0,0,"second","QUESTION YOU FOOD FAVORITE(ASL) WHAT",NA,"M",23.9,2008,1990
+"152",21,"favorite food",0,0,0,1,0,0,"second","QUESTION YOU LIKE YOU WHICH WHAT FOOD YOU WHICH YOUR",NA,"M",21.5,2008,1990
+"153",22,"favorite food",0,0,0,0,1,0,"first","EAT WHAT FAVORITE DRINK COCA-COLA",NA,"M",30.5,2008,1978
+"154",24,"favorite food",0,0,0,0,0,1,"first","FOOD LIKE F-A-V-O-R-I-T-A  YOU",NA,"M",30.9,2008,1980
+"155",30,"favorite food",1,0,0,0,0,0,"third","YOUR EAT YOU",NA,"F",16.1,2010,1998
+"156",31,"favorite food",0,0,0,0,0,0,"first","FOOD PLEASE",NA,"M",30.5,2008,1982
+"157",32,"favorite food",1,0,1,1,1,1,"first","FOOD LIKE MOST WHAT",NA,"M",42.8,2017,1979
+"158",33,"favorite food",0,1,0,0,2,1,"first","FOOD F-A-V-O-R-I-T-A WHAT",NA,"F",31,2008,1983
+"159",46,"favorite food",1,0,0,0,0,0,"hearing","what is your favorite food that you like to eat the most?","Y tu comida favorita pues la que te gusta mas?","M",17,2017,NA
+"160",48,"favorite food",0,0,0,0,0,2,"hearing","And what is your favorite food?","Y cual es tu comida favorita?","F",20.6,2017,NA
+"161",48,"favorite food",2,1,0,0,0,0,"hearing","What is your favorite food from your country?","Que comida te gusta de tu pais?","F",20.6,2017,NA
+"162",49,"favorite food",0,1,0,0,0,0,"hearing","Your favorite food?","Tu comida favorita?","M",32.2,2017,NA
+"163",3,"favorite food",1,1,1,0,0,0,"second","YOU EAT FAVORITE EAT WHAT",NA,"F",21.8,2008,1990
+"164",1,"friend",0,0,0,0,0,0,"second","YOU FRIEND YOU FRIEND",NA,"F",24.4,2008,1989
+"165",1,"friend",0,1,1,0,0,1,"second","WHERE FRIEND WHERE WHAT",NA,"F",24.4,2008,1989
+"166",2,"friend",0,1,0,0,0,0,"second","YOU FRIEND QUESTION",NA,"M",21.9,2008,1990
+"167",5,"friend",1,0,1,1,0,0,"second","YOU FRIEND WHAT",NA,"M",26.2,2008,1986
+"168",7,"friend",0,0,0,0,0,0,"first","YOU FRIEND (ASL) FRIEND (NSL)",NA,"F",31.8,2008,1983
+"169",8,"friend",1,0,0,1,1,0,"first","FRIEND (inc) WHAT FRIEND WHAT",NA,"F",40.1,2008,1974
+"170",9,"friend",0,0,0,0,0,0,"first","YOU FRIEND",NA,"M",31,2008,1983
+"171",11,"friend",0,0,0,2,1,0,"second"," QUESTION (inc) YOU QUESTION YOU FRIEND NAME FRIEND YOU",NA,"M",23.1,2008,1989
+"172",14,"friend",1,1,0,1,0,0,"second","YOU FRIEND NAME YOU FRIEND",NA,"F",23.3,2008,1989
+"173",20,"friend",1,1,0,1,0,0,"second","QUESTION YOU FRIENDS",NA,"M",23.9,2008,1990
+"174",20,"friend",1,1,0,0,0,2,"second","YOU FRIEND WOMAN QUESTION",NA,"M",23.9,2008,1990
+"175",21,"friend",0,0,0,1,1,0,"second","QUESTION YOU FRIEND NAME WHAT",NA,"M",21.5,2008,1990
+"176",22,"friend",0,0,0,0,0,0,"first","YOU FRIEND",NA,"M",30.5,2008,1978
+"177",24,"friend",0,1,0,0,0,0,"first","YOU FRIEND YOU FRIEND",NA,"M",30.9,2008,1980
+"178",31,"friend",1,0,0,0,0,0,"first","YOU FRIEND",NA,"M",30.5,2008,1982
+"179",33,"friend",1,0,0,1,0,0,"first","YOU FRIEND MANY",NA,"F",31,2008,1983
+"180",3,"friend",0,2,0,0,0,2,"second","YOU FRIEND MAN",NA,"F",21.8,2008,1990
+"181",3,"friend",0,1,1,0,0,0,"second","WHAT YOU FRIEND MAN NAME WHAT",NA,"F",21.8,2008,1990
+"182",1,"job",0,0,0,0,0,0,"second","YOU WORK",NA,"F",24.4,2008,1989
+"183",42,"job",3,0,0,0,0,0,"hearing","To go to work, what do you need to do to go to work? ","Para ir a tu trabajo que es lo que hacer para ir a trabajo?","M",29.4,2011,NA
+"184",43,"job",0,0,0,0,0,0,"hearing","What time do you get up to go to work?","Que hora te levantas para ir a trabajo?","M",26,2011,NA
+"185",2,"job",0,1,0,0,0,0,"second","WORK QUESTION WORK YOU",NA,"M",21.9,2008,1990
+"186",4,"job",1,0,0,1,0,0,"second","WORK YOU WHAT NEED WORK YOU",NA,"M",27.2,2009,1986
+"187",5,"job",1,0,0,1,1,0,"second","WORK WHAT YOU",NA,"M",26.2,2008,1986
+"188",13,"job",1,0,0,1,0,0,"second","YOU WORK WHAT HAVE WORK","","F",34.1,2017,1985
+"189",17,"job",0,0,0,0,0,0,"first","WORK YOU",NA,"F",36.5,2017,1977
+"190",28,"job",1,1,0,1,1,0,"third","WHAT WORK WHICH HAVE WHAT","","M",21.9,2017,1999
+"191",28,"job",1,2,0,0,0,1,"third","QUESTION YOUWORK YOU","","M",21.9,2017,1999
+"192",47,"job",0,0,0,0,0,0,"hearing","and what do you do for work?","y que trabajas?","F",37.9,2017,NA
+"193",50,"job",0,0,0,0,0,0,"hearing","And where do you work?","Y adonde trabajas?","F",43.5,2017,NA
+"194",6,"job",0,1,0,0,0,0,"second","XXX WORK",NA,"F",29.8,2011,1987
+"195",7,"job",0,1,0,0,0,1,"first","YOU WORK",NA,"F",31.8,2008,1983
+"196",8,"job",0,0,0,0,1,0,"first","WORK WHAT",NA,"F",40.1,2008,1974
+"197",9,"job",0,0,1,0,1,0,"first","YOU (inc) DO WORK WHAT WORK WHAT WORK",NA,"M",31,2008,1983
+"198",10,"job",0,1,0,1,0,0,"second","QUESTION WORK YOU WHAT",NA,"F",27.2,2009,1987
+"199",12,"job",1,1,0,0,1,0,"third","XXX WORK WHAT",NA,"M",17.9,2010,1998
+"200",12,"job",1,0,0,0,1,1,"third","YOU UNIVERSITY WHAT",NA,"M",17.9,2010,1998
+"201",15,"job",0,0,1,2,0,0,"third","YOU QUESTION YOU WORK WHAT",NA,"F",28.8,2017,1994
+"202",16,"job",1,1,0,1,0,0,"third","YOU WORK",NA,"M",18,2010,1997
+"203",20,"job",1,0,0,1,0,0,"second","QUESTION YOU WORK",NA,"M",23.9,2008,1990
+"204",22,"job",0,0,0,1,1,0,"first","WORK WHAT",NA,"M",30.5,2008,1978
+"205",24,"job",1,0,0,1,0,0,"first","YOU WORK HAVE",NA,"M",30.9,2008,1980
+"206",30,"job",1,0,0,1,0,0,"third","YOU WORK WHAT",NA,"F",16.1,2010,1998
+"207",31,"job",0,0,0,0,0,0,"first","WORK",NA,"M",30.5,2008,1982
+"208",32,"job",1,0,0,1,1,0,"first","YOU WORK YOU",NA,"M",42.8,2017,1979
+"209",33,"job",1,0,0,1,0,0,"first","YOU WORK WHAT YOU",NA,"F",31,2008,1983
+"210",45,"job",1,0,0,1,0,0,"second","SCHOOL WORK SCHOOL WORK",NA,"F",26.5,2011,1990
+"211",46,"job",0,1,0,0,0,1,"hearing","what are the hours? what is your job?","y en que son la rolas?que trabajas?","M",17,2017,NA
+"212",48,"job",1,0,1,0,0,0,"hearing","And what do you work in?","Y en que trabajas?","F",20.6,2017,NA
+"213",48,"job",0,0,1,0,0,1,"hearing","And you like your job?","Y te gusta tu trabajo?","F",20.6,2017,NA
+"214",49,"job",0,0,0,0,0,0,"hearing","And your job? What do you work in? ","Y tu trabajo? De que trabajas?","M",32.2,2017,NA
+"215",6,"job",0,1,0,1,1,1,"second","XXX SCHOOL OR WORK",NA,"F",29.8,2011,1987
+"216",6,"job",0,0,0,0,0,0,"second","XXX UNIVERISTY YOU",NA,"F",29.8,2011,1987
+"217",12,"job",0,0,0,1,1,0,"third","SCHOOL SCHOOL WHAT YOU",NA,"M",17.9,2010,1998
+"218",15,"job",0,1,1,2,0,0,"third","SCHOOL QUESTION QUESTION SCHOOL WHAT SCHOOL QUESTION SCHOOL",NA,"F",28.8,2017,1994
+"219",15,"job",0,0,2,2,0,0,"third","YOU QUESTION WORK SORRY. QUESTION WHAT UNIVERSITY WHAT STUDY YOU WHAT",NA,"F",28.8,2017,1994
+"220",16,"job",1,0,0,1,0,0,"third","YOU SCHOOL YOU SCHOOL",NA,"M",18,2010,1997
+"221",16,"job",1,0,0,1,0,0,"third","YOU UNIVERISTY STUDY",NA,"M",18,2010,1997
+"222",25,"job",0,0,0,1,0,0,"third","QUESTION YOU STUDY",NA,"F",19.4,2009,1994
+"223",30,"job",0,0,0,1,0,1,"third","YOU UNIVERSITY",NA,"F",16.1,2010,1998
+"224",45,"job",1,1,0,1,1,0,"second","SEE YOU UNIVERSITY WHAT CLASS(?)",NA,"F",26.5,2011,1990
+"225",30,"jop",0,0,0,1,0,0,"third","YOU GO CULTURE MUSIC YOU",NA,"F",16.1,2010,1998
+"226",34,"mother's birthday",0,0,0,0,0,0,"hearing","when is your mother's birthday?","cuando cumpleanos tu mami?","F",27.6,2010,NA
+"227",35,"mother's birthday",0,0,1,0,0,0,"hearing","when is your mom's birthday?","cuando cumple anos tu mama","F",30.2,2010,NA
+"228",42,"mother's birthday",1,1,0,0,0,1,"hearing","And your mom, the birthday of your mom? Or the date?","Tu mama, el cumpleanos de tu mama? O la fecha?","M",29.4,2011,NA
+"229",42,"mother's birthday",0,2,0,0,0,0,"hearing","How many- When is your mother's birthday?","Cuantos- Cuando cumpleanos tu mama?","M",29.4,2011,NA
+"230",43,"mother's birthday",0,0,0,0,0,0,"hearing","When is your mother's birthday?","Cuando es el cumpleanos de tu mama?","M",26,2011,NA
+"231",44,"mother's birthday",0,0,0,0,0,0,"hearing","La fetcha de cumpleanos de tu mama","La fetcha de cumpleanos de tu mama","M",27.6,2011,NA
+"232",44,"mother's birthday",0,0,0,0,0,2,"hearing","When is your mother birthday?","Cuando es el cumpleanos de tu mama?","M",27.6,2011,NA
+"233",2,"mother's birthday",1,0,0,0,0,1,"second","BIRTHDAY OF YOUR MOM ",NA,"M",21.9,2008,1990
+"234",5,"mother's birthday",1,0,0,2,0,0,"second","YOU BIRTHDAY OF YOU MOTHER BIRTHDAY (inc) WHAT",NA,"M",26.2,2008,1986
+"235",13,"mother's birthday",0,0,0,1,0,0,"second","YOU MAMA WHEN BIRTHDAY  MAMA ","","F",34.1,2017,1985
+"236",17,"mother's birthday",0,0,0,0,0,0,"first","YOU MAMA BIRTHDAY MAMA BIRTHDAY",NA,"F",36.5,2017,1977
+"237",28,"mother's birthday",1,1,0,0,0,0,"third","YOU MAMA WHAT NAME WHAT YOU NAME","","M",21.9,2017,1999
+"238",47,"mother's birthday",0,0,0,0,0,0,"hearing","when is your birthday?","cuando cumpleaños?","F",37.9,2017,NA
+"239",47,"mother's birthday",1,0,0,0,0,0,"hearing","and when is your mom's birthday?","y cuando cumpleaños de tu mama?","F",37.9,2017,NA
+"240",50,"mother's birthday",0,0,0,0,0,1,"hearing","The birthday of your mom?","El cumpleanos de tu mama?","F",43.5,2017,NA
+"241",23,"mother's birthday",1,0,0,0,0,1,"third","WHEN BIRTHDAY DE YOU MAMA",NA,"F",23.8,2017,1997
+"242",7,"mother's birthday",1,0,0,0,0,1,"first","MOTHER (inc) BIRTHDAY YOU OF MOTHER  YOU",NA,"F",31.8,2008,1983
+"243",39,"mother's birthday",0,0,0,0,0,0,"hearing","The birthday of your mommy?","El cumpleanos de tu mami?","M",24.7,2010,NA
+"244",38,"mother's birthday",1,1,0,0,0,0,"hearing","When is your mom's birthday?","Cuando cumpleanos tu mama?","F",28.7,2010,NA
+"245",40,"mother's birthday",0,0,0,0,0,0,"hearing","When is your mother's birthday?","Cuando es el cumpleanos de tu mama?","M",22.6,2010,NA
+"246",41,"mother's birthday",0,0,0,1,0,0,"hearing","When-When is your mother's birthday?","Cuando-Cuando cumpleanos tu mami?","F",24.8,2010,NA
+"247",34,"mother's birthday",1,0,0,0,0,0,"hearing","When is your mother's birthday?","Cuando cumpleaños tu mama?","F",NA,2010,NA
+"248",36,"mother's birthday",0,0,0,1,0,0,"hearing","Mom's birthday?","Cummpleanos de tu mama?","M",23.8,2010,NA
+"249",36,"mother's birthday",0,1,0,0,0,0,"hearing","When is your mother's birthday?","Cuando es el cumpleanos de tu mama?","M",23.8,2010,NA
+"250",37,"mother's birthday",0,1,0,0,0,0,"hearing","What is your mother's birthday?","Que dia es el cumpleaños de tu mama?","F",55.3,2010,NA
+"251",9,"mother's birthday",1,0,0,0,0,0,"first","BIRTHDAY YOU MOTHER",NA,"M",31,2008,1983
+"252",10,"mother's birthday",1,1,0,0,0,0,"second","YOU YOUR MOTHER BIRTHDAY YOU",NA,"F",27.2,2009,1987
+"253",12,"mother's birthday",1,0,0,0,0,1,"third","BIRTHDAY YOU MAMA WHAT(?)",NA,"M",17.9,2010,1998
+"254",14,"mother's birthday",2,0,0,0,0,0,"second","YOU BIRTHDAY YOU MOTHER QUESTION",NA,"F",23.3,2008,1989
+"255",15,"mother's birthday",1,0,1,3,1,0,"third","YOU BIRTHDAY WHEN MAMA QUESTION YOU WHERE",NA,"F",28.8,2017,1994
+"256",16,"mother's birthday",1,0,0,1,0,0,"third","BIRTHDAY YOU MAMA WHAT",NA,"M",18,2010,1997
+"257",18,"mother's birthday",0,1,0,1,0,0,"third","QUESTION BIRTHDAY YOU MAMA",NA,"M",19.3,2009,1993
+"258",19,"mother's birthday",1,1,0,0,0,0,"third","WHEN BIRTHDAY YOU MOTHER",NA,"M",18.7,2009,1993
+"259",20,"mother's birthday",1,1,0,1,0,0,"second","YOU QUESTION BIRTHDAY YOU MAMA",NA,"M",23.9,2008,1990
+"260",21,"mother's birthday",1,0,0,1,0,0,"second","QUESTION YOU BIRTHDAY YOU MOTHER YOU WHAT",NA,"M",21.5,2008,1990
+"261",22,"mother's birthday",1,0,0,0,0,0,"first","BIRTHDAY YOU MAMA",NA,"M",30.5,2008,1978
+"262",24,"mother's birthday",0,1,0,0,0,0,"first","YOU BIRTHDAY DE T-U M-A-D-R-E M-A-D-R-E",NA,"M",30.9,2008,1980
+"263",26,"mother's birthday",0,0,0,0,0,0,"first","BIRTHDAY MAMA YOU BIRTHDAY",NA,"M",50,2017,1974
+"264",27,"mother's birthday",1,0,1,1,1,0,"third","QUESTION YOU MAMA WHEN BIRTHDAY",NA,"M",23.4,2017,1998
+"265",29,"mother's birthday",0,0,0,0,0,0,"third","MAMA YOUR BIRTHDAY",NA,"M",15.9,2009,1997
+"266",30,"mother's birthday",1,0,0,1,0,0,"third","BIRTHDAY YOU MAMA WHAT",NA,"F",16.1,2010,1998
+"267",32,"mother's birthday",1,1,0,0,0,0,"first","MAMA YOU BIRTHDAY YOU",NA,"M",42.8,2017,1979
+"268",33,"mother's birthday",1,0,0,1,0,0,"first","YOU BIRTHDAY D-E YOU MAMA",NA,"F",31,2008,1983
+"269",45,"mother's birthday",1,0,0,1,1,1,"second","BIRTHDAY YOU MOTHER",NA,"F",26.5,2011,1990
+"270",46,"mother's birthday",0,1,0,0,0,0,"hearing","and when is your mom's birthday?","y el cumpleanos tu mama?","M",17,2017,NA
+"271",48,"mother's birthday",0,0,1,0,0,1,"hearing","What is your mom's birthday?","Cual es el cumpleanos de tu mama?","F",20.6,2017,NA
+"272",49,"mother's birthday",0,1,0,1,0,2,"hearing","And the birthday of your mom? When is your mom's birthday? ","El cumpleanos de tu mama? Cuant-Cuando es el cumpleanos de tu mama?","M",32.2,2017,NA
+"273",3,"mother's birthday",0,1,0,1,1,0,"second","BIRTHDAY YOU MAMA WHAT",NA,"F",21.8,2008,1990
+"274",34,"name",0,0,0,0,0,0,"hearing","uh, the name of your teacher?","eh, el nombre de su maestra?","F",27.6,2010,NA
+"275",34,"name",0,1,0,0,0,0,"hearing","what is your... what is your teacher's name?","como te..como se llama tu maestra?","F",27.6,2010,NA
+"276",1,"name",0,0,0,0,0,0,"second","NAME YOU",NA,"F",24.4,2008,1989
+"277",2,"name",0,0,0,0,0,0,"second","NAME YOU QUESTION NAME",NA,"M",21.9,2008,1990
+"278",5,"name",1,0,0,0,0,0,"second","YOU NAME YOU NAME",NA,"M",26.2,2008,1986
+"279",13,"name",0,0,0,1,0,0,"second","YOU NAME","","F",34.1,2017,1985
+"280",13,"name",1,0,0,1,0,0,"second","YOU PROFESSOR NAME","","F",34.1,2017,1985
+"281",17,"name",0,0,0,0,0,0,"first","NAME YOU",NA,"F",36.5,2017,1977
+"282",28,"name",0,1,0,0,0,0,"third","YOU YOUR NAME YOU NAME","","M",21.9,2017,1999
+"283",47,"name",0,0,0,0,0,0,"hearing","what is your name?","cual es tu nombre?","F",37.9,2017,NA
+"284",50,"name",0,0,0,0,0,0,"hearing","What is your name?","Cual es tu nombre?","F",43.5,2017,NA
+"285",50,"name",0,0,0,0,0,1,"hearing","The name of your father?","El nombre de tu padre?","F",43.5,2017,NA
+"286",50,"name",0,0,0,0,0,1,"hearing","And the name of your mom?","Y el nombre de tu mama?","F",43.5,2017,NA
+"287",7,"name",0,0,0,0,0,1,"first","NAME NAME ",NA,"F",31.8,2008,1983
+"288",38,"name",1,1,0,0,0,0,"hearing","What is your name?","Cual es su nombre?","F",28.7,2010,NA
+"289",40,"name",1,0,0,0,0,0,"hearing","What is your mother's name?","Como se llama tu mama?","M",22.6,2010,NA
+"290",37,"name",0,0,0,0,0,0,"hearing","What's your name?","Como te llamas?","F",55.3,2010,NA
+"291",37,"name",0,0,0,0,0,0,"hearing","What's your name?","Como te llamas?","F",55.3,2010,NA
+"292",9,"name",0,0,0,0,0,0,"first","YOU NAME YOU NAME",NA,"M",31,2008,1983
+"293",11,"name",0,0,1,0,0,0,"second","NAME YOU (inc)",NA,"M",23.1,2008,1989
+"294",14,"name",0,1,0,1,1,0,"second","YOU QUESTION YOU NAME",NA,"F",23.3,2008,1989
+"295",15,"name",0,0,1,2,1,0,"third","NAME",NA,"F",28.8,2017,1994
+"296",20,"name",1,0,0,1,0,0,"second","QUESTION NAME",NA,"M",23.9,2008,1990
+"297",21,"name",1,0,0,1,0,0,"second","QUESTION WHERE... NAME YOU YOU NAME YOU",NA,"M",21.5,2008,1990
+"298",24,"name",0,0,0,0,0,0,"first","YOU NAME YOU",NA,"M",30.9,2008,1980
+"299",26,"name",0,0,0,0,0,0,"first","YOU NAME TEACHER",NA,"M",50,2017,1974
+"300",32,"name",0,0,0,0,0,1,"first","NAME",NA,"M",42.8,2017,1979
+"301",32,"name",0,0,0,0,0,0,"first","NAMESIGN YOU",NA,"M",42.8,2017,1979
+"302",32,"name",0,0,0,0,0,0,"first","YOU PAPA NAME",NA,"M",42.8,2017,1979
+"303",33,"name",1,0,0,0,0,0,"first","YOU NAME",NA,"F",31,2008,1983
+"304",45,"name",0,1,0,1,1,0,"second","NAME PROFESSOR",NA,"F",26.5,2011,1990
+"305",46,"name",0,3,0,0,0,1,"hearing","what is your full name?","Como se Ilama y cual es su nombe completo?","M",17,2017,NA
+"306",48,"name",0,0,1,0,0,1,"hearing","What is your full name?","Cual es tu nombre completo?","F",20.6,2017,NA
+"307",48,"name",0,0,1,0,0,1,"hearing","What are their names","Como se llaman?","F",20.6,2017,NA
+"308",49,"name",0,0,0,0,0,0,"hearing","Hi, what's your name?","Hola como te llamas","M",32.2,2017,NA
+"309",49,"name",0,1,1,0,0,0,"hearing","The two last names fully? ","Los dos appellidos completos?","M",32.2,2017,NA
+"310",3,"name",0,0,0,0,0,0,"second","NAME",NA,"F",21.8,2008,1990
+"311",3,"name",0,0,1,0,0,0,"second","NAME",NA,"F",21.8,2008,1990
+"312",26,"name",0,0,0,0,0,0,"first","YOU SIGN WHAT",NA,"M",50,2017,1974
+"313",26,"name",0,0,0,0,0,0,"first","SIGN D-O-N-DE",NA,"M",50,2017,1974
+"314",34,"other",0,0,0,0,0,0,"hearing","what number of...(incomplete)","que numero de...","F",27.6,2010,NA
+"315",34,"other",0,1,0,0,0,0,"hearing","the name of your mom, your, your teacher?","el nombre de tu mama, de tu, de tu maestra?","F",27.6,2010,NA
+"316",44,"other",1,1,1,1,0,0,"hearing","What time do you get up to go to the gym?","A que hora te levantas para- ir al gymnasio?","M",27.6,2011,NA
+"317",4,"other",0,0,0,0,1,0,"second","MOM DAD WHAT",NA,"M",27.2,2009,1986
+"318",17,"other",0,0,0,0,0,0,"first","TIME D-E SPORTS WHAT",NA,"F",36.5,2017,1977
+"319",17,"other",0,0,0,0,0,1,"first","S-U YOU PAPA NAME YOU",NA,"F",36.5,2017,1977
+"320",47,"other",0,0,0,0,0,0,"hearing","Married? Single?","Casado? Soltero?","F",37.9,2017,NA
+"321",47,"other",1,0,0,0,0,0,"hearing","Nombody asked you that question?","Nadie le hecho esa pregunta?","F",37.9,2017,NA
+"322",47,"other",0,0,0,0,0,0,"hearing","the name of your father?","nombre es su papa?","F",37.9,2017,NA
+"323",8,"other",1,1,0,1,5,0,"first","BUY/MONEY WHAT BUY/MONEY WHAT ",NA,"F",40.1,2008,1974
+"324",39,"other",0,0,0,0,0,1,"hearing","xxx?","xxx?","M",24.7,2010,NA
+"325",39,"other",1,0,0,0,0,0,"hearing","Around here xxx?","Por aqui xxx?","M",24.7,2010,NA
+"326",40,"other",0,1,0,0,0,0,"hearing","How are you?","Como estas?","M",22.6,2010,NA
+"327",10,"other",0,0,0,1,0,0,"second","BOSS NAME YOUR NAME",NA,"F",27.2,2009,1987
+"328",12,"other",1,0,0,1,0,1,"third","MORE BELIEF YOU HOUSE",NA,"M",17.9,2010,1998
+"329",15,"other",0,0,1,2,1,0,"third","MAN YOU QUESTION MAN WHAT",NA,"F",28.8,2017,1994
+"330",26,"other",0,0,0,0,0,0,"first","GO D-O-N-D-E WHAT",NA,"M",50,2017,1974
+"331",46,"other",0,1,1,0,0,0,"hearing","in order to feel more healthy right?","para sentirse mas saludable pues? ","M",17,2017,NA
+"332",46,"other",0,1,0,0,0,0,"hearing","early?","temprano?","M",17,2017,NA
+"333",46,"other",0,1,0,0,0,1,"hearing","so you are in the middle then?","eres el medio pues?","M",17,2017,NA
+"334",46,"other",0,0,0,0,0,0,"hearing","and what is your father's name?","y el nombre tu padre?","M",17,2017,NA
+"335",48,"other",0,0,1,0,0,0,"hearing","Name of your father?","Nombre de tu padre?","F",20.6,2017,NA
+"336",49,"other",1,1,1,0,0,1,"hearing","Freezing?Cold?Hot? ","Helado? Frio? Caliente?","M",32.2,2017,NA
+"337",49,"other",0,1,1,0,0,0,"hearing","Do you enjoy a lot?","Te encanta mucho?","M",32.2,2017,NA
+"338",49,"other",0,1,0,0,0,1,"hearing","Without the need of an alarm?","Sin la necesidad de un alarma?","M",32.2,2017,NA
+"339",49,"other",1,1,1,0,0,0,"hearing","Do you all get along?","Y se van bien todos?","M",32.2,2017,NA
+"340",49,"other",0,1,0,1,0,0,"hearing","Dad's name?","Nombre de papa?","M",32.2,2017,NA
+"341",49,"other",0,2,1,0,0,0,"hearing","Is he tall?Handsome?","Es alto? Guapo? Hermoso? ","M",32.2,2017,NA
+"342",49,"other",1,0,0,0,0,0,"hearing","Do you love him a lot?","Lo quires mucho?","M",32.2,2017,NA
+"343",34,"siblings",0,1,0,0,0,0,"hearing","how many siblings do you have?","cuantos hermanos tienes?","F",27.6,2010,NA
+"344",35,"siblings",0,0,0,0,0,0,"hearing","how many siblings do you have?","cuantos hermanos tenes","F",30.2,2010,NA
+"345",1,"siblings",0,0,0,0,0,0,"second","YOU HOW MANY SIBLINGS",NA,"F",24.4,2008,1989
+"346",42,"siblings",0,0,0,0,0,0,"hearing","Are you an only child or how many siblings do you have?","Y solo son hermano, o son cuanto hermanos tienes?","M",29.4,2011,NA
+"347",42,"siblings",0,0,0,0,0,0,"hearing","And how many-how many siblings are you?","Y cuanto- cuanto hermanos son?","M",29.4,2011,NA
+"348",43,"siblings",0,0,0,0,0,0,"hearing","How many siblings do you have?","Cuanto hermanos tienes?","M",26,2011,NA
+"349",44,"siblings",0,0,0,1,0,0,"hearing","How many siblings do you have?","Cuantos hermanos tienes?","M",27.6,2011,NA
+"350",2,"siblings",1,0,0,0,0,1,"second","NUMBER DE SIBLINGS",NA,"M",21.9,2008,1990
+"351",4,"siblings",2,0,0,0,0,0,"second","NUMBER SIBLINGS HOW-MANY NUMBER SIBLINGS HOW-MANY-2 SIBLINGS HOW-MANY-2 SIBLINGS FAMILY YOU FAMILY HEY FAMILY SIBLINGS",NA,"M",27.2,2009,1986
+"352",5,"siblings",1,0,0,1,0,0,"second","NUMBER DE (fs) SIBLINGS YOU",NA,"M",26.2,2008,1986
+"353",13,"siblings",0,0,0,1,0,0,"second","YOU SIBLINGS","","F",34.1,2017,1985
+"354",17,"siblings",0,0,0,0,0,0,"first","SIBLINGS MEN",NA,"F",36.5,2017,1977
+"355",28,"siblings",1,1,0,0,0,1,"third","YOU WHAT HAVE SIBLINGS","","M",21.9,2017,1999
+"356",47,"siblings",1,0,0,0,0,0,"hearing","how many sisters do you have?","cuantas hermanas tienes?","F",37.9,2017,NA
+"357",50,"siblings",0,0,0,0,0,1,"hearing","Number of siblings that you have?","Numero de hermanos que tu tienes? ","F",43.5,2017,NA
+"358",23,"siblings",1,0,0,1,0,0,"third","HOW-MANY HAVE SIBLINGS",NA,"F",23.8,2017,1997
+"359",6,"siblings",1,0,0,1,1,0,"second","NUMBER SIBLINGS",NA,"F",29.8,2011,1987
+"360",7,"siblings",0,2,0,0,0,0,"first","NUMBER OF SIBLINGS",NA,"F",31.8,2008,1983
+"361",8,"siblings",0,0,0,1,2,1,"first","SIBLINGS WHAT… SIBLINGS HOW MANY",NA,"F",40.1,2008,1974
+"362",39,"siblings",1,0,0,1,0,0,"hearing","How many sibling do you have?","Cuanto hermanas tienes?","M",24.7,2010,NA
+"363",38,"siblings",0,1,0,0,0,0,"hearing","How many siblings do you have?","Cuantos hermanos tienes?","F",28.7,2010,NA
+"364",41,"siblings",0,0,0,0,0,0,"hearing","How many siblings do you have?","Cuanto hermanos tienes?","F",24.8,2010,NA
+"365",34,"siblings",0,1,0,0,0,1,"hearing","What number-  How many siblings do you have?","Que numer de- Cuantos hermanos tienes?","F",NA,2010,NA
+"366",36,"siblings",0,0,1,0,0,0,"hearing","How many siblings do you have?","Cuanto hermanos son ustedes?","M",23.8,2010,NA
+"367",37,"siblings",0,0,0,0,0,0,"hearing","How many siblings do you have?","Cuantos hermanos tienes?","F",55.3,2010,NA
+"368",9,"siblings",0,0,0,0,0,0,"first","NUMBER SIBLINGS",NA,"M",31,2008,1983
+"369",10,"siblings",0,0,0,1,0,0,"second","HOW MANY SIBLINGS YOU",NA,"F",27.2,2009,1987
+"370",11,"siblings",1,0,1,1,0,0,"second","QUESTION NUMBER YOU SIBLINGS",NA,"M",23.1,2008,1989
+"371",12,"siblings",1,0,0,0,0,1,"third","NUMBER SIBLINGS YOU",NA,"M",17.9,2010,1998
+"372",14,"siblings",1,0,0,1,0,0,"second","NUMBER YOU SIBLINGS QUESTION",NA,"F",23.3,2008,1989
+"373",15,"siblings",0,0,1,3,1,0,"third","NUMBER WHAT QUESTION WHAT SIBLINGS WHAT",NA,"F",28.8,2017,1994
+"374",16,"siblings",1,0,0,1,0,1,"third","NUMBER SIBLINNGS NUMBER SIBLINGS",NA,"M",18,2010,1997
+"375",18,"siblings",0,1,0,2,0,0,"third","QUESTION NUMBER SIBLINGS",NA,"M",19.3,2009,1993
+"376",19,"siblings",0,1,0,1,0,0,"third","QUESTION NUMBER SIBLINGS",NA,"M",18.7,2009,1993
+"377",20,"siblings",1,0,0,1,0,0,"second","QUESTION YOU NUMBER SIBLINGS",NA,"M",23.9,2008,1990
+"378",21,"siblings",2,0,0,1,0,0,"second","QUESTION YOU NUMBER YOU SIBLINGS",NA,"M",21.5,2008,1990
+"379",21,"siblings",0,2,0,0,1,2,"second","QUESTION YOU NUMBER YOU SIBLINGS",NA,"M",21.5,2008,1990
+"380",24,"siblings",0,0,0,0,0,0,"first","YOU NUMBER SIBLINGS",NA,"M",30.9,2008,1980
+"381",25,"siblings",0,0,0,0,0,0,"third","HAVE HOW-MANY SIBLINGS",NA,"F",19.4,2009,1994
+"382",26,"siblings",0,0,0,0,0,0,"first","NUMBER SIBLINGS",NA,"M",50,2017,1974
+"383",27,"siblings",1,0,0,1,0,0,"third","QUESTION YOU HAVE HOW-MANY SIBLINGS",NA,"M",23.4,2017,1998
+"384",29,"siblings",0,0,0,0,0,0,"third","HOW-MANY SIBLINGS",NA,"M",15.9,2009,1997
+"385",30,"siblings",0,0,0,1,0,0,"third","YOU NUMBER SIBLINGS WHAT",NA,"F",16.1,2010,1998
+"386",32,"siblings",0,0,0,0,0,0,"first","YOU SIBLINGS YOU",NA,"M",42.8,2017,1979
+"387",33,"siblings",0,0,0,1,0,0,"first","YOU NUMBER SIBLINGS HOW-MANY(sign cut off)",NA,"F",31,2008,1983
+"388",45,"siblings",0,2,0,1,1,0,"second","NUMBER SIBLINGS SIBLINGS SIBLINGS NUMBER SIBLINGS",NA,"F",26.5,2011,1990
+"389",46,"siblings",1,0,0,0,0,0,"hearing","and how many brothers or sisters do you have?","y el numeros tus hermanos o hermanas?","M",17,2017,NA
+"390",48,"siblings",0,0,1,0,0,0,"hearing","How many siblings do you have?","Cuantos hermanos tienes?","F",20.6,2017,NA
+"391",49,"siblings",0,0,0,0,0,1,"hearing","The number of brothers or sister? How many? What are their names?","El numero de hermanos o hermanas ? Cuanto son? Como se llaman?","M",32.2,2017,NA
+"392",3,"siblings",0,1,0,0,1,0,"second","HOW-MANY SIBLINGS YOU HOW-MANY SIBLINGS",NA,"F",21.8,2008,1990
+"393",7,"supermarket",0,2,0,0,0,0,"first","SUPERMARKET",NA,"F",31.8,2008,1983
+"394",11,"supermarket",0,1,0,0,0,1,"second"," QUESTION SUPERMARKET SUPERMARKET",NA,"M",23.1,2008,1989
+"395",14,"supermarket",1,2,0,2,0,0,"second","YOU SUPERMARKET QUESTION YOU SUPERMARKET YOU SUPERMARKET",NA,"F",23.3,2008,1989
+"396",20,"supermarket",1,0,0,0,1,1,"second","QUESTION YOU SUPERMARKET",NA,"M",23.9,2008,1990
+"397",21,"supermarket",0,0,0,1,0,1,"second","QUESTION YOU SUPERMARKET MARKET YOU SUPERMARKET MARKET",NA,"M",21.5,2008,1990
+"398",33,"supermarket",0,2,0,1,2,1,"first","WHERE WHAT S-U-P-E-R-M-E-R-C-A-DO WHERE WHAT",NA,"F",31,2008,1983
+"399",3,"supermarket",0,2,0,1,0,0,"second","YOU WHAT SUPERMARKET NAME WHAT SUPERMARKET SUPERMARKET",NA,"F",21.8,2008,1990
+"400",35,"teacher",1,0,0,0,0,0,"hearing","what is the name of your teacher?","como se llama su professora","F",30.2,2010,NA
+"401",42,"teacher",1,0,0,0,0,0,"hearing","And the name of you teacher? Or the last teacher you've had?","Y el nombre de tu maestra? O la ultima maestra que tenistes?","M",29.4,2011,NA
+"402",42,"teacher",0,2,0,0,0,0,"hearing","What is the name of your teacher?","Cual es el nombre de tu maestra?","M",29.4,2011,NA
+"403",43,"teacher",0,0,0,0,0,0,"hearing","What is the name of your last teacher?","Cual es el nombre de la ultima maestra?","M",26,2011,NA
+"404",44,"teacher",0,0,1,0,0,0,"hearing","Tell me the name of your teacher from middle school?","Dime el nombre de la maestra de tu secundaria?","M",27.6,2011,NA
+"405",23,"teacher",1,0,0,0,0,0,"third","YOUR NAME PROFESSOR",NA,"F",23.8,2017,1997
+"406",6,"teacher",0,0,0,1,1,0,"second","NAME TEACHER",NA,"F",29.8,2011,1987
+"407",39,"teacher",1,0,1,1,1,0,"hearing","Do you remember the name of your teacher? From middle school or univeristy?","Te recuerdase el nombre de tu maestra? De secundaria o universidad?","M",24.7,2010,NA
+"408",39,"teacher",0,0,0,0,0,1,"hearing","Neither?","Ninguno?","M",24.7,2010,NA
+"409",38,"teacher",0,1,0,0,0,0,"hearing","What is the name of your teacher?","Cual es el nombre de tu maestra?","F",28.7,2010,NA
+"410",40,"teacher",2,0,0,0,0,0,"hearing","What is the name of your teacher from your school?","Cual es el nombre de tu maestra de tu escuela?","M",22.6,2010,NA
+"411",41,"teacher",1,0,0,0,0,0,"hearing","What is your professor's name?","Cual es el nombre de tu professora?","F",24.8,2010,NA
+"412",41,"teacher",1,0,0,0,0,0,"hearing","What is your professor's name?","Cual es el nombre de tu professora?","F",24.8,2010,NA
+"413",34,"teacher",0,1,0,0,0,1,"hearing","The name of your mom- of your teacher?","El nombre de tu mama- de tu maestra?","F",NA,2010,NA
+"414",34,"teacher",0,0,1,0,0,0,"hearing","What is the name of your teacher?","Como se llama tu maestra?","F",NA,2010,NA
+"415",36,"teacher",0,0,1,0,0,1,"hearing","Name of your teacher?","Nombre de tu maestro?","M",23.8,2010,NA
+"416",36,"teacher",0,0,1,0,0,0,"hearing","What is the name of your teacher?","Cual es el nombre de to maestro?","M",23.8,2010,NA
+"417",37,"teacher",0,1,0,0,0,0,"hearing","What is the name of your professor?","Cual era el nombre de tu professora?","F",55.3,2010,NA
+"418",12,"teacher",0,0,0,1,1,1,"third","NAME DE TEACHER WHAT",NA,"M",17.9,2010,1998
+"419",15,"teacher",0,1,1,1,0,0,"third","QUESTION NAME TEACHER NAME",NA,"F",28.8,2017,1994
+"420",16,"teacher",1,1,0,1,0,0,"third","NAME TEACHER WHAT",NA,"M",18,2010,1997
+"421",18,"teacher",1,0,0,2,0,0,"third","QUESTION NAME TEACHER",NA,"M",19.3,2009,1993
+"422",19,"teacher",0,1,0,1,0,0,"third","QUESTION NAME TEACHER",NA,"M",18.7,2009,1993
+"423",25,"teacher",0,0,0,1,1,0,"third","QUESTION YOU PROFESSOR WHAT NAME",NA,"F",19.4,2009,1994
+"424",27,"teacher",1,0,0,2,1,0,"third","YOU BEFORE CHRISTIAN-SCHOOL STUDY TEACHER TEACH NAME TEACHER TEACH NAME WHO",NA,"M",23.4,2017,1998
+"425",30,"teacher",0,1,0,1,0,0,"third","YOU NAME TEACHER NAME TEACHER",NA,"F",16.1,2010,1998
+"426",45,"teacher",0,1,0,0,0,0,"second","NAME PROFESSOR",NA,"F",26.5,2011,1990
+"427",45,"teacher",0,1,0,0,0,1,"second","NAME PROFESSOR",NA,"F",26.5,2011,1990
+"428",18,"time",1,0,0,0,0,0,"third","QUESTION TIME NIGHT EAT",NA,"M",19.3,2009,1993
+"429",34,"time",0,0,0,0,0,0,"hearing","what time do you have dinner?","a que hora cenas?","F",27.6,2010,NA
+"430",35,"time",0,0,0,0,0,0,"hearing","at what time do you have dinner?","a que hora cenas","F",30.2,2010,NA
+"431",42,"time",0,0,0,0,0,0,"hearing","What time do you eat dinner?","Y a que hora cenas?","M",29.4,2011,NA
+"432",43,"time",0,0,0,0,0,0,"hearing","What time do you eat dinner?","A que hora cenas?","M",26,2011,NA
+"433",44,"time",0,1,0,0,0,0,"hearing","After a long day, what time do you eat dinner?","Despues de un dia bien canzado, que hora cenas?","M",27.6,2011,NA
+"434",4,"time",0,1,0,0,0,0,"second","TIME EAT HOUR",NA,"M",27.2,2009,1986
+"435",50,"time",0,0,0,0,0,0,"hearing","Give or take the time?","Mas o menos la hora?","F",43.5,2017,NA
+"436",23,"time",1,1,0,1,0,0,"third","WHAT TIME NIGHT EAT",NA,"F",23.8,2017,1997
+"437",7,"time",1,0,0,0,0,0,"first","TIME OF C___?",NA,"F",31.8,2008,1983
+"438",39,"time",0,0,0,1,0,0,"hearing","What time do you normally eat dinner?","A que horas cenan normalmente?","M",24.7,2010,NA
+"439",38,"time",0,0,1,0,0,0,"hearing","What time do you eat?","A que hora cenas?","F",28.7,2010,NA
+"440",40,"time",1,0,0,0,0,0,"hearing","At what time do you eat dinner? ","Cual es tu hora de cenar?","M",22.6,2010,NA
+"441",41,"time",1,0,0,0,0,0,"hearing","At what time do you eat at nght? Dinner.","A que hora comes por la noche? La cena.","F",24.8,2010,NA
+"442",34,"time",0,0,0,0,0,0,"hearing","What time do you eat dinner?","A que hora cenas?","F",NA,2010,NA
+"443",36,"time",0,0,0,0,0,0,"hearing","What time do you eat dinner?","Que hora cenas?","M",23.8,2010,NA
+"444",37,"time",0,0,0,0,0,0,"hearing","Normally, at what time do you eat dinner?","Normalmente, a que hora cenas?","F",55.3,2010,NA
+"445",11,"time",1,1,1,1,0,2,"second","QUESTION MORNING YOU SCHOOL TIME",NA,"M",23.1,2008,1989
+"446",12,"time",1,0,0,1,0,0,"third","TIME XXX TIME WHAT",NA,"M",17.9,2010,1998
+"447",12,"time",0,0,0,1,1,1,"third","TIME WHAT TIME WHAT",NA,"M",17.9,2010,1998
+"448",15,"time",0,0,1,1,1,0,"third","TIME QUESTION TIME WHAT",NA,"F",28.8,2017,1994
+"449",15,"time",0,0,2,2,2,0,"third","TIME QUESTION TIME WHAT",NA,"F",28.8,2017,1994
+"450",16,"time",1,0,0,1,0,0,"third","TIME EAT WHAT TIME EAT WHAT",NA,"M",18,2010,1997
+"451",19,"time",0,0,0,1,0,0,"third","QUESTION YOU (inc) EAT (inc) TIME EAT NIGHT",NA,"M",18.7,2009,1993
+"452",20,"time",0,0,0,1,0,0,"second","QUESTION XXX BUS ARRIVE SCHOOL",NA,"M",23.9,2008,1990
+"453",25,"time",0,0,1,1,1,0,"third","WHAT TIME",NA,"F",19.4,2009,1994
+"454",25,"time",0,0,0,2,2,1,"third","QUESTION YOU EAT… WHAT EAT TIME EVENING",NA,"F",19.4,2009,1994
+"455",27,"time",1,0,0,1,0,1,"third","QUESTION YOU WHEN TODAY NIGHT EAT WHAT TIME",NA,"M",23.4,2017,1998
+"456",31,"time",0,0,0,0,0,0,"first","TIME DE E-S-P-E-R....",NA,"M",30.5,2008,1982
+"457",31,"time",0,0,0,1,0,0,"first","TIME DE XXXXX WHAT",NA,"M",30.5,2008,1982
+"458",45,"time",0,1,0,1,0,0,"second","TIME CLEAN TIME",NA,"F",26.5,2011,1990
+"459",45,"time",0,0,0,1,1,0,"second","TIME EAT TIME",NA,"F",26.5,2011,1990
+"460",49,"time",0,1,0,0,0,0,"hearing","At 9:30? ","A las 9:30?","M",32.2,2017,NA
+"461",34,"town",0,0,0,0,0,0,"hearing","in what house do you live?","en que casa vives?","F",27.6,2010,NA
+"462",35,"town",0,0,1,0,0,0,"hearing","what address is your house?","que direccion es tu casa?","F",30.2,2010,NA
+"463",1,"town",1,1,0,0,1,0,"second","YOU HOUSE DONDE",NA,"F",24.4,2008,1989
+"464",42,"town",1,0,0,0,0,0,"hearing","Where do you live?","Donde vives?","M",29.4,2011,NA
+"465",43,"town",0,0,0,0,0,1,"hearing","The color of your house?","El color de tu casa?","M",26,2011,NA
+"466",43,"town",1,0,1,0,0,0,"hearing","What is the direction for your house?","Cual es la dirreccion de tu casa?","M",26,2011,NA
+"467",43,"town",0,0,0,0,0,0,"hearing","Where is your house?","Donde queda tu casa?","M",26,2011,NA
+"468",44,"town",0,0,0,1,0,0,"hearing","And, can you tell me what is the direction of your house?","Me puedes decir cual es la direccion para tu casa?","M",27.6,2011,NA
+"469",44,"town",0,0,0,0,0,0,"hearing","The route that is most closest to your home?","La routa mas cercana a tu casa?","M",27.6,2011,NA
+"470",2,"town",1,1,0,0,0,0,"second","YOU HOUSE QUESTION YOU HOUSE WHAT",NA,"M",21.9,2008,1990
+"471",4,"town",0,0,0,0,0,0,"second","LIVE HOUSE LIVE HOUSE",NA,"M",27.2,2009,1986
+"472",5,"town",1,1,0,1,1,0,"second","YOU HOUSE WHAT",NA,"M",26.2,2008,1986
+"473",13,"town",0,0,0,1,0,0,"second","DIRECTIONS YOU HOUSE DIRECTIONS","","F",34.1,2017,1985
+"474",28,"town",0,1,0,1,1,0,"third","YOU WHERE HOUSE ADDRESS","","M",21.9,2017,1999
+"475",50,"town",1,0,0,0,0,0,"hearing","Where do you live? What's your address?","Donde vives? Tu domicilio? ","F",43.5,2017,NA
+"476",23,"town",1,0,0,0,0,0,"third","WHAT STAY HOUSE",NA,"F",23.8,2017,1997
+"477",6,"town",1,1,0,0,1,0,"second","WHERE HOUSE",NA,"F",29.8,2011,1987
+"478",7,"town",1,0,0,0,0,0,"first","YOU HOUSE WHAT",NA,"F",31.8,2008,1983
+"479",8,"town",1,1,0,0,0,1,"first","YOU HOUSE WHAT HOUSE",NA,"F",40.1,2008,1974
+"480",39,"town",1,0,0,1,0,0,"hearing","What is the direction  of your house? ","Cual  el la direccion de tu casa?","M",24.7,2010,NA
+"481",39,"town",1,0,0,1,0,0,"hearing","What is the direction of your house","Cual es la direccion de tu casa?","M",24.7,2010,NA
+"482",38,"town",1,0,0,0,0,1,"hearing","The direction of your house?","La direccion de tu casa?","F",28.7,2010,NA
+"483",41,"town",0,0,0,1,0,0,"hearing","What house do you live in?","En que casa vives?","F",24.8,2010,NA
+"484",34,"town",0,0,0,0,0,0,"hearing","What house do you live in?","En que casa vives?","F",NA,2010,NA
+"485",36,"town",0,0,0,0,0,1,"hearing","Where do you live?","Donde vives?","M",23.8,2010,NA
+"486",37,"town",0,0,0,0,0,0,"hearing","The direction of your house?","La dirrecion de tu casa?","F",55.3,2010,NA
+"487",9,"town",0,0,0,0,0,0,"first","YOU HOUSE WHAT",NA,"M",31,2008,1983
+"488",10,"town",0,1,0,0,0,0,"second","HOUSE QUESTION WHAT",NA,"F",27.2,2009,1987
+"489",10,"town",0,1,0,1,2,0,"second","HOUSE QUESTION... WHERE HOUSE QUESTION WHAT",NA,"F",27.2,2009,1987
+"490",11,"town",0,2,0,0,1,0,"second","QUESTION  YOU LOCATION HOME",NA,"M",23.1,2008,1989
+"491",14,"town",0,2,0,1,1,0,"second","WHERE YOU HOUSE (inc) LOCATION point in space WHERE YOU CASA QUESTION",NA,"F",23.3,2008,1989
+"492",14,"town",0,1,0,1,1,0,"second","WHERE YOU HOUSE (inc) LOCATION point in space WHERE YOU CASA QUESTION",NA,"F",23.3,2008,1989
+"493",14,"town",0,0,0,1,1,0,"second","WHERE YOU LOCATION HOUSE QUESTION",NA,"F",23.3,2008,1989
+"494",15,"town",0,0,1,1,0,0,"third","HOUSE WHAT QUESTION WHAT",NA,"F",28.8,2017,1994
+"495",16,"town",0,0,0,1,0,0,"third","HOUSE",NA,"M",18,2010,1997
+"496",16,"town",1,0,0,1,0,0,"third","YOU HOUSE NEAR WHERE HOUSE NEAR",NA,"M",18,2010,1997
+"497",18,"town",0,0,0,1,0,0,"third","QUESTION HOUSE",NA,"M",19.3,2009,1993
+"498",19,"town",0,1,0,1,0,0,"third","QUESTION WHERE YOUR HOUSE",NA,"M",18.7,2009,1993
+"499",20,"town",1,0,0,1,0,0,"second","QUESTION YOU HOUSE",NA,"M",23.9,2008,1990
+"500",21,"town",1,1,0,1,1,0,"second","QUESTION YOU LOCATION YOU HOUSE WHAT",NA,"M",21.5,2008,1990
+"501",22,"town",0,0,0,1,1,0,"first","YOU HOUSE",NA,"M",30.5,2008,1978
+"502",24,"town",0,0,0,0,0,0,"first","YOU HOUSE",NA,"M",30.9,2008,1980
+"503",25,"town",0,0,0,0,0,1,"third","HAVE YOU HOUSE",NA,"F",19.4,2009,1994
+"504",25,"town",0,0,0,0,0,0,"third","WHERE YOU LIVE",NA,"F",19.4,2009,1994
+"505",26,"town",0,0,0,0,0,0,"first","WHAT DIRECTIONS WHAT",NA,"M",50,2017,1974
+"506",27,"town",0,0,0,1,0,0,"third","YOU WHERE HOUSE WHERE YOU WHERE HOUSE ? QUESTION HOUSE WHERE ?",NA,"M",23.4,2017,1998
+"507",29,"town",0,0,0,0,0,1,"third","HOUSE",NA,"M",15.9,2009,1997
+"508",30,"town",1,1,0,1,1,0,"third","YOU HOUSE WHAT",NA,"F",16.1,2010,1998
+"509",30,"town",1,0,0,1,0,1,"third","YOUR YOU HOUSE YOUR",NA,"F",16.1,2010,1998
+"510",31,"town",0,0,0,1,1,0,"first","YOU HOUSE",NA,"M",30.5,2008,1982
+"511",32,"town",0,0,0,1,0,0,"first","DIRECTION YOU HOUSE DIRECTION",NA,"M",42.8,2017,1979
+"512",33,"town",1,0,0,1,0,0,"first","YOU HOUSE WHAT",NA,"F",31,2008,1983
+"513",45,"town",0,0,0,0,0,0,"second","HOUSE",NA,"F",26.5,2011,1990
+"514",45,"town",0,0,0,1,0,0,"second","NUMBER MORE YOU HOUSE",NA,"F",26.5,2011,1990
+"515",45,"town",0,0,0,0,0,0,"second","BUS MORE YOU HOUSE",NA,"F",26.5,2011,1990
+"516",46,"town",0,0,0,0,0,1,"hearing","where do you live?","donde vives?","M",17,2017,NA
+"517",48,"town",1,0,1,0,0,0,"hearing","Where do you live?","Donde vives?","F",20.6,2017,NA
+"518",49,"town",0,0,0,1,0,0,"hearing","Your address?Where do you live? ","Y tu domicilio? Adonde vives?","M",32.2,2017,NA
+"519",3,"town",0,1,0,0,1,0,"second","WHERE LOCATION YOU HOUSE",NA,"F",21.8,2008,1990
+"520",37,"transportation",1,0,0,0,0,0,"hearing","Was your school close?","Te quedaba cerca tu escuela?","F",55.3,2010,NA
+"521",29,"transportation",0,0,0,0,0,0,"third","QUESTION YOUR DIRECTION ANSNIC",NA,"M",15.9,2009,1997
+"522",34,"transportation",1,0,0,0,0,0,"hearing","how do you get to work or school?","que transporte te lleva al trabajo o a la escuela?","F",27.6,2010,NA
+"523",34,"transportation",0,0,0,0,0,0,"hearing","which bus takes you nearest to your house?","(not looking at camera) que ruta mas cerca te lleva a tu casa? ","F",27.6,2010,NA
+"524",34,"transportation",0,0,0,0,0,0,"hearing","which bus takes you nearest to your house?","que ruta  mas cercate lleva a tu casa?","F",27.6,2010,NA
+"525",34,"transportation",0,0,0,0,0,0,"hearing","what transportation brings you to work?","en que transporte al trabajo te lleva?","F",27.6,2010,NA
+"526",34,"transportation",0,0,0,0,0,0,"hearing","in what, how?","que en, como?","F",27.6,2010,NA
+"527",34,"transportation",0,0,0,0,0,0,"hearing","how do you get to work?","en que te vas al trabajo?","F",27.6,2010,NA
+"528",34,"transportation",0,0,0,0,0,0,"hearing","what transportation brings you to college?","en que transporte te lleva a la universidad?","F",27.6,2010,NA
+"529",34,"transportation",0,0,0,0,0,0,"hearing","what do you take to get to the university?","en que te lleva a la universidad?","F",27.6,2010,NA
+"530",35,"transportation",0,0,1,0,0,0,"hearing","what route passes near your house","que ruta pasa cerca de tu casa","F",30.2,2010,NA
+"531",35,"transportation",0,0,0,0,0,0,"hearing","in what do you go to school","en que te vas a la escuela?","F",30.2,2010,NA
+"532",35,"transportation",0,0,0,0,0,0,"hearing","in what do you go to work?","en que te vas al pegue","F",30.2,2010,NA
+"533",35,"transportation",0,0,0,0,0,0,"hearing","in what do you go to university?","en que te vas a la universidad","F",30.2,2010,NA
+"534",42,"transportation",0,0,0,0,0,0,"hearing","What do you go on?","En que te vas?","M",29.4,2011,NA
+"535",42,"transportation",1,0,0,0,0,0,"hearing","And the route closest to you that passes by your house?","Y la routa mas cercas que pasa por tu casa?","M",29.4,2011,NA
+"536",42,"transportation",1,0,0,0,0,0,"hearing","The bus that pases closest to your house?","El bus mas cercano que pasa por tu casa?","M",29.4,2011,NA
+"537",42,"transportation",0,0,0,0,0,0,"hearing","And what is the route? - what is the route? - (background noise)","Y cual es la routa - cual es la routa que - (background noise)","M",29.4,2011,NA
+"538",42,"transportation",0,1,0,0,0,1,"hearing","When you go to work, what do you go in?","Cuando vas a tu trabajo, en que te vas?","M",29.4,2011,NA
+"539",42,"transportation",1,0,0,0,0,0,"hearing","When you use to go to university, what did you go in?","Cuando ibas a la universidad, en que te ibas?","M",29.4,2011,NA
+"540",43,"transportation",0,0,0,0,0,1,"hearing","What do you use to transport for school?","Que te transportas en la escuela?","M",26,2011,NA
+"541",43,"transportation",0,0,0,0,0,0,"hearing","What do you use to transport to go to work?","Que te transportas para ir al trabajo?","M",26,2011,NA
+"542",43,"transportation",1,0,0,0,0,0,"hearing","When you use to go to university what did you go in or en que te transportas?","Cuando ibas a la universidad en que ibas o que te transportas?","M",26,2011,NA
+"543",43,"transportation",1,0,1,0,0,0,"hearing","What is the route or bus that passes closest to your house?","Cual es la routa o bus que pasa mas cerca a tu casa?","M",26,2011,NA
+"544",44,"transportation",2,0,0,2,0,0,"hearing","What type of transportation do you use to go to school or work?","Que typo de transporte usas para ir a tu trabajo o escuela?","M",27.6,2011,NA
+"545",44,"transportation",1,0,1,0,1,0,"hearing","What is the route that takes you closest to your home?","Cual es la routa que te lleva mas cerca a tu casa?","M",27.6,2011,NA
+"546",44,"transportation",0,1,1,0,0,0,"hearing","What transportation to do you to go to university?","Que transporte utilzas para ir a la universidad?","M",27.6,2011,NA
+"547",44,"transportation",0,2,0,0,0,0,"hearing","And to go to university, what transportationd do you use? ","Y para ir a la universidad, que transporte usas?","M",27.6,2011,NA
+"548",4,"transportation",0,1,0,1,1,0,"second","BUS M-A-S NEAR",NA,"M",27.2,2009,1986
+"549",4,"transportation",1,0,0,0,0,1,"second","YOU LIKE SORT-OF I  BS YOU HOUSE I BUS NEAR COME-ON DRIVE",NA,"M",27.2,2009,1986
+"550",13,"transportation",1,0,0,1,0,0,"second","YOU WORK GO WHICH CAR BUS WHAT TAXI","","F",34.1,2017,1985
+"551",17,"transportation",0,0,0,0,0,0,"first","DIRECTIONS HOUSE",NA,"F",36.5,2017,1977
+"552",17,"transportation",0,0,0,0,0,1,"first","HE YOU YOU WORK DRIVE BUS WALK STREET WALK OR LIKE WHAT YOU WORK LIKE YOU",NA,"F",36.5,2017,1977
+"553",28,"transportation",2,1,0,2,1,1,"third","YOU WHAT WORK BUS OR WALK OR WHATEVER WHICH ","","M",21.9,2017,1999
+"554",47,"transportation",1,0,0,0,0,0,"hearing","where do you live?","donde vives?","F",37.9,2017,NA
+"555",47,"transportation",0,0,0,0,0,0,"hearing","what do you take to get to work?","que tu tomas a tu trabajo?","F",37.9,2017,NA
+"556",50,"transportation",0,0,0,0,0,0,"hearing","And the route that you take to go to work?","Y la routa que tomas para ir al trabajo","F",43.5,2017,NA
+"557",23,"transportation",1,1,0,0,0,1,"third","YOU GO CAR HOUSE OR WORK",NA,"F",23.8,2017,1997
+"558",23,"transportation",0,0,0,0,0,0,"third","WHICH BUS MOST CLOSE YOU HOUSE",NA,"F",23.8,2017,1997
+"559",23,"transportation",1,0,0,0,0,1,"third","CAR GO WORK",NA,"F",23.8,2017,1997
+"560",23,"transportation",1,0,0,1,0,2,"third","YOU BUS CAR WHATEVER YOU TAKE-OFF GO UNIVERSITY",NA,"F",23.8,2017,1997
+"561",6,"transportation",0,2,0,3,1,2,"second","BUS NEAR HOUSE DONDE STAY NEAR WORK",NA,"F",29.8,2011,1987
+"562",7,"transportation",0,1,0,0,0,0,"first","(looks like question word) YOU BUS SCHOOL WHAT",NA,"F",31.8,2008,1983
+"563",39,"transportation",0,1,0,1,0,0,"hearing","Transportational that you go en car or xxx?","Que transportable que te vas en caro or xxx?","M",24.7,2010,NA
+"564",39,"transportation",0,0,0,0,0,0,"hearing","And for university, what did you go in?","Y la universidad en que ibas?","M",24.7,2010,NA
+"565",39,"transportation",1,0,0,1,0,0,"hearing","You walked to university?","Caminabas a la universidad?","M",24.7,2010,NA
+"566",39,"transportation",0,0,0,0,0,0,"hearing","The bus would come by your house?","Pasaba el bus por tu casa?","M",24.7,2010,NA
+"567",39,"transportation",1,0,0,0,0,0,"hearing","It wasn't by horse?","No fue en caballo?","M",24.7,2010,NA
+"568",39,"transportation",1,0,0,0,0,0,"hearing","What are the buses that pass by your husband's house? ","Cuales son los buses que pasan cerca de la case de tu esposo?","M",24.7,2010,NA
+"569",39,"transportation",0,0,0,1,0,0,"hearing","What transportation do you use for work?","Que transporte vas a tu trabajo","M",24.7,2010,NA
+"570",39,"transportation",1,0,0,1,0,1,"hearing","When you go to school, what transportation?","Cuando vas a la escuela en que transporte","M",24.7,2010,NA
+"571",39,"transportation",0,1,0,1,0,1,"hearing","Your mom took you? Your mommy would take you?","Tu mama te llevaba? Tu mami te llevaba","M",24.7,2010,NA
+"572",39,"transportation",0,0,0,0,0,1,"hearing","When you go to school","Cuando vas en la escuela","M",24.7,2010,NA
+"573",38,"transportation",0,0,0,0,0,0,"hearing","When you studied, what was your transportation?","Cuando estudiabas, en que te transportabas?","F",28.7,2010,NA
+"574",38,"transportation",0,0,0,0,0,0,"hearing","The route that is closest to your house?","La routa que queda mas cerca a tu casa?","F",28.7,2010,NA
+"575",38,"transportation",0,2,0,0,0,0,"hearing","Which route is closest to your house?","Cual es la routa que es mas cerca a tu casa?","F",28.7,2010,NA
+"576",38,"transportation",1,1,0,0,0,0,"hearing","When you go to work, what do you transport in? In what do you transport in?","Cuando vas a trabajo, en que te transportas? En que te transportas?","F",28.7,2010,NA
+"577",38,"transportation",0,1,0,0,0,0,"hearing","When you go to university, what do you transport in?","Cuando vas a la universidad en que te transportas?","F",28.7,2010,NA
+"578",40,"transportation",2,0,0,0,0,0,"hearing","What is the route closest to your house?","Cual es la routa mas cerca a tu casa?","M",22.6,2010,NA
+"579",40,"transportation",1,0,0,0,0,0,"hearing","What is the transportation that take you to your job?","Cual es el transporte que te lleva a tu trabajo?","M",22.6,2010,NA
+"580",40,"transportation",0,0,0,0,0,0,"hearing","What is the transportation that take you to university?","Cual es el transporte que te lleva a la universidad","M",22.6,2010,NA
+"581",40,"transportation",1,0,0,0,0,0,"hearing","What is the transportation that takes him to university?","Cual es el tranporte que lo lleva a la universidad?","M",22.6,2010,NA
+"582",41,"transportation",1,0,0,1,0,0,"hearing","What route do you take to go to school or to work?","En que routa vas a la escuela o el trabajo?","F",24.8,2010,NA
+"583",41,"transportation",1,0,0,0,0,0,"hearing","What is the route that passes closest to here?","Cual es la routa que pasa mas cerca de aqui? ","F",24.8,2010,NA
+"584",41,"transportation",1,0,0,0,0,0,"hearing","What route - What route do you take to work?","En que- En que routa te vas al trabajo?","F",24.8,2010,NA
+"585",41,"transportation",0,1,0,0,0,0,"hearing","And what route do you take to university?","Y en que routa te vas a la universidad?","F",24.8,2010,NA
+"586",34,"transportation",1,0,0,0,0,0,"hearing","What transportation takes you to work or school?","En que transporte te lleva al trabajo o la escuela? ","F",NA,2010,NA
+"587",34,"transportation",0,0,0,0,0,0,"hearing","What is the closest route that takes you home?","Que routa mas cerca te lleva a tu casa?","F",NA,2010,NA
+"588",34,"transportation",1,0,0,0,0,0,"hearing","What route is closest to your home?","Que routa mas cerca te lleva a tu casa?","F",NA,2010,NA
+"589",34,"transportation",1,0,0,0,0,0,"hearing","What transportation takes you to work?","En que transprote te lleva a tu trabajo?","F",NA,2010,NA
+"590",34,"transportation",1,0,1,0,0,0,"hearing","What do you go in to get to work?","En que te vas al trabajo?","F",NA,2010,NA
+"591",34,"transportation",1,0,2,0,0,0,"hearing","What transportation takes you to university?- What takes you to university?","En que transporte te lleva a la universidad - en que te lleva a la universidad?","F",NA,2010,NA
+"592",36,"transportation",1,0,0,0,0,0,"hearing","Closest route that passes by your house?","Routa mas cerca que pasa por tu casa?","M",23.8,2010,NA
+"593",36,"transportation",1,0,0,0,0,0,"hearing","What takes you home (transportation)?","Que te trae a la casa?","M",23.8,2010,NA
+"594",36,"transportation",1,0,0,0,0,0,"hearing","What transportation used to go to work?","En que te (transporte) al trabajo?","M",23.8,2010,NA
+"595",36,"transportation",1,0,0,0,0,0,"hearing","What transportation used to go to univeristy?","En que (transporte) a la universidad?","M",23.8,2010,NA
+"596",37,"transportation",0,1,0,0,0,1,"hearing","What did you go in to go to university?","En que te ibas para la universidad?","F",55.3,2010,NA
+"597",37,"transportation",0,1,0,0,0,0,"hearing","What route would take you?","Que routa te llevaba?","F",55.3,2010,NA
+"598",37,"transportation",0,1,0,0,0,0,"hearing","When you use to go to school what did you travel in or what did you go in?","Cuando ibas a tu escuela en que te transportabas o te ibas? ","F",55.3,2010,NA
+"599",37,"transportation",0,1,0,0,0,0,"hearing","What is-What is the route that takes you or takes you closest to your house?","Cual es-Cual es la routa que te lleva o que te deja mas cerca a tu casa?","F",55.3,2010,NA
+"600",37,"transportation",0,0,0,0,0,0,"hearing","The bus that is closest to you that takes you to your house?","El bus que te queda mas cerca para llevarte a tu casa?","F",55.3,2010,NA
+"601",10,"transportation",0,1,0,1,1,0,"second","WHAT YOU HOW ANSNIC ROUTE(?) BUS HOW YOU",NA,"F",27.2,2009,1987
+"602",10,"transportation",0,0,0,0,0,0,"second","ANSNIC BUS HOW",NA,"F",27.2,2009,1987
+"603",10,"transportation",0,1,0,0,0,2,"second","BUS ANSNIC BUS TAXI (makes ah gesture)",NA,"F",27.2,2009,1987
+"604",14,"transportation",0,1,0,0,1,0,"second","YOU BUS GO SCHOOL WHAT QUESTION",NA,"F",23.3,2008,1989
+"605",14,"transportation",0,1,0,0,1,0,"second","YOU NUMBER BUS WHAT",NA,"F",23.3,2008,1989
+"606",15,"transportation",1,0,1,0,0,1,"third","QUESTION BUS BUS BUS QUESTION YOU BUS YOU BUS QUESTION WHAT",NA,"F",28.8,2017,1994
+"607",18,"transportation",1,0,0,0,0,0,"third","QUESTION BUS SCHOOL",NA,"M",19.3,2009,1993
+"608",18,"transportation",1,0,0,1,0,0,"third","QUESTION YOU BUS-STOP HOUSE NEAR YOU",NA,"M",19.3,2009,1993
+"609",19,"transportation",0,0,0,1,0,0,"third","QUESTION GO SCHOOL BUS GO SCHOOL",NA,"M",18.7,2009,1993
+"610",19,"transportation",0,1,0,1,0,0,"third","QUESTION BUS NUMBER NEAR/CLOSE HOUSE YOU HOUSE",NA,"M",18.7,2009,1993
+"611",21,"transportation",2,1,1,1,1,0,"second","QUESTION YOU WHAT BUS OR TAXI OR YOU SCHOOL WHAT YOU QUESTION YOU",NA,"M",21.5,2008,1990
+"612",25,"transportation",0,0,0,2,0,0,"third","YOU HAVE... YOU HAVE STUDY BUS (inc) HAVE BUS BUS",NA,"F",19.4,2009,1994
+"613",26,"transportation",0,1,0,0,0,0,"first","BUS SCHOOL WORK WHAT",NA,"M",50,2017,1974
+"614",26,"transportation",0,0,0,0,0,0,"first","YOU BUS R-U-T-A NEAR DIRECTIONS",NA,"M",50,2017,1974
+"615",26,"transportation",0,0,0,0,0,0,"first","BUS C-E-R-C-A NEAR DIRECTION NEAR",NA,"M",50,2017,1974
+"616",26,"transportation",0,0,0,0,0,0,"first","BUS WORK BUS WORK",NA,"M",50,2017,1974
+"617",26,"transportation",0,0,0,0,0,0,"first","BUS T-U UNIVERSITY",NA,"M",50,2017,1974
+"618",27,"transportation",1,0,0,0,0,1,"third","ME YOU QUESTION YOU QUESTION YOU GO BUS GO SCHOOL OR YOU GO WORK WHICH WHAT WHICH WHAT",NA,"M",23.4,2017,1998
+"619",27,"transportation",1,0,0,1,1,0,"third","QUESTION YOU HAVE HOUSE NEAR BUS WHAT NUMBER WHAT",NA,"M",23.4,2017,1998
+"620",27,"transportation",1,0,0,1,1,0,"third","QUESTION YOU BUS TO WORK BUS BUS YOU BUS YOU OKAY",NA,"M",23.4,2017,1998
+"621",32,"transportation",0,0,1,1,0,0,"first","WORK WALK BUS DRIVE WHAT BICYCLE WHAT",NA,"M",42.8,2017,1979
+"622",33,"transportation",0,3,0,0,2,0,"first","YOU DRIVE WHAT WORK WHAT WHERE YOU WHAT",NA,"F",31,2008,1983
+"623",45,"transportation",0,2,0,1,0,0,"second","WORK WHAT COMPUTER? WHAT BUS WHAT",NA,"F",26.5,2011,1990
+"624",46,"transportation",0,1,0,0,0,0,"hearing","which route do you take to get to work?","Y cuál es la ruta que tomas para ir a tu trabajo?","M",17,2017,NA
+"625",48,"transportation",0,0,1,0,0,1,"hearing","What is the route you take to get to work?","Cual es la routa que tomas para ir al trabajo?","F",20.6,2017,NA
+"626",49,"transportation",0,2,0,0,0,0,"hearing","Do you travel on foot, bicycle, car, bus?","Viajas en pie, bicicleta, carro, bus?","M",32.2,2017,NA
+"627",3,"transportation",0,1,0,0,2,0,"second","YOU WHAT BUS SCHOOL WHAT",NA,"F",21.8,2008,1990
+"628",4,"wake-up",1,0,0,0,0,0,"second","WORK GET-UP TIME",NA,"M",27.2,2009,1986
+"629",7,"wake-up",0,1,0,1,0,1,"first","TIME OF D E S D E R… (can't make out rest of fs)",NA,"F",31.8,2008,1983
+"630",40,"wake-up",1,1,1,0,0,0,"hearing","At what time do you get up? ","Cual es tu hora de levantarte?","M",22.6,2010,NA
+"631",34,"wake-up",0,1,0,0,0,0,"hearing","at what time do you get up?","a que hora te levantaste?","F",27.6,2010,NA
+"632",35,"wake-up",0,0,0,0,0,0,"hearing","what time do you wake up at?","a que hora te levantas","F",30.2,2010,NA
+"633",1,"wake-up",1,0,0,0,0,1,"second","TIME WAKE-UP TIME",NA,"F",24.4,2008,1989
+"634",1,"wake-up",0,0,0,0,0,1,"second","THEN MORNING WAKE-UP TIME",NA,"F",24.4,2008,1989
+"635",42,"wake-up",0,0,0,0,0,0,"hearing","What time do you get up?","Que hora te levantas?","M",29.4,2011,NA
+"636",2,"wake-up",0,0,0,1,0,0,"second","TIME OF MORNING MORNING",NA,"M",21.9,2008,1990
+"637",4,"wake-up",1,0,0,0,0,0,"second","YOU TIME YOU NORMAL TIME GET-UP YOU",NA,"M",27.2,2009,1986
+"638",5,"wake-up",1,0,0,1,0,0,"second","TIME WAKE UP WHAT",NA,"M",26.2,2008,1986
+"639",13,"wake-up",0,1,0,2,0,1,"second","TIME WAKE-UP MORNING YOU TIME","","F",34.1,2017,1985
+"640",17,"wake-up",0,0,0,0,0,3,"first","THE MORNING SLEEP WAKE-UP XXXX TIME YOU",NA,"F",36.5,2017,1977
+"641",28,"wake-up",1,1,1,1,0,0,"third","YOU TIME WAKE-UP GET-UP TIME WHAT","","M",21.9,2017,1999
+"642",47,"wake-up",1,0,0,0,0,0,"hearing","what time do you get up?","a que horas te levantas?","F",37.9,2017,NA
+"643",50,"wake-up",1,0,1,0,0,0,"hearing","What time do you wake-up? Out of habit?","A que horas te levantas? De costumbre?","F",43.5,2017,NA
+"644",23,"wake-up",1,0,0,1,0,0,"third","WHAT TIME GET-UP",NA,"F",23.8,2017,1997
+"645",6,"wake-up",1,0,0,2,3,0,"second","HOUR GET-UP HOUR GET-UP",NA,"F",29.8,2011,1987
+"646",39,"wake-up",0,0,0,1,0,0,"hearing","At what time do you normally get up?","A que hora te llevantas normalmente?","M",24.7,2010,NA
+"647",39,"wake-up",0,0,0,0,0,0,"hearing","Also the weekends?","Los fin de semanas tambien?","M",24.7,2010,NA
+"648",38,"wake-up",0,0,0,0,0,0,"hearing","The hour that you get up?","La hora que te levantas?","F",28.7,2010,NA
+"649",38,"wake-up",0,1,0,0,0,1,"hearing","What time do you get up? What time do you get up?","A que hora te levantas? A que hora te levantas?","F",28.7,2010,NA
+"650",41,"wake-up",0,0,0,0,0,0,"hearing","What time do you wake up?","A que hora te levantas?","F",24.8,2010,NA
+"651",34,"wake-up",0,1,0,0,0,0,"hearing","What time do you wake-up?","A que hora te levantas?","F",NA,2010,NA
+"652",36,"wake-up",0,0,0,0,0,0,"hearing","What time do you get up?","Que hora te levantas?","M",23.8,2010,NA
+"653",37,"wake-up",0,0,0,0,0,0,"hearing","At what hour would you get up in the morning?","A que hora te levantas por la mañana?","F",55.3,2010,NA
+"654",9,"wake-up",0,0,0,0,0,0,"first","TIME WAKE-UP",NA,"M",31,2008,1983
+"655",10,"wake-up",0,1,0,1,0,0,"second","WHAT GET UP MORNING EVENING LIGHT DARK ___ YOU",NA,"F",27.2,2009,1987
+"656",11,"wake-up",1,0,0,1,0,2,"second","QUESTION TIME MORNING TIME WHAT",NA,"M",23.1,2008,1989
+"657",14,"wake-up",1,1,0,0,1,1,"second","YOU TIME WAKE-UP QUESTION",NA,"F",23.3,2008,1989
+"658",15,"wake-up",0,1,2,0,0,2,"third","WAKE-UP WAKE-UP WAKE-UP GET-UP QUESTION WAKE-UP QUESTION WHAT",NA,"F",28.8,2017,1994
+"659",16,"wake-up",1,0,0,1,0,0,"third","YOU TIME WHAT GET-UP STRETCH GET-UP WHAT",NA,"M",18,2010,1997
+"660",18,"wake-up",1,0,0,1,0,0,"third","QUESTION TIME GET-UP",NA,"M",19.3,2009,1993
+"661",19,"wake-up",0,1,0,1,0,0,"third","QUESTION TIME GET-UP",NA,"M",18.7,2009,1993
+"662",20,"wake-up",2,0,0,1,0,1,"second","QUESTION TIME GET-UP TIME",NA,"M",23.9,2008,1990
+"663",21,"wake-up",0,0,0,1,0,1,"second","QUESTION YOU WHAT TIME WAKE YOU TIME WHAT (inc)",NA,"M",21.5,2008,1990
+"664",22,"wake-up",0,1,0,0,0,1,"first","TIME WAKE-UP TIME SLEEP WAKE-UP",NA,"M",30.5,2008,1978
+"665",25,"wake-up",0,0,0,1,0,0,"third","TIME YOU WAKE-UP YOU",NA,"F",19.4,2009,1994
+"666",26,"wake-up",0,0,0,0,0,0,"first","TIME GET-UP",NA,"M",50,2017,1974
+"667",27,"wake-up",1,0,0,1,0,0,"third","QUESTION YOU GET-UP TIME",NA,"M",23.4,2017,1998
+"668",29,"wake-up",0,0,0,1,0,0,"third","QUESTION TIME WAKE-UP",NA,"M",15.9,2009,1997
+"669",30,"wake-up",1,1,0,0,0,1,"third","TIME YOU TIME GET-UP YOU",NA,"F",16.1,2010,1998
+"670",32,"wake-up",0,0,0,1,1,0,"first","TIME YOU MORNING SLEEP YOU WHAT",NA,"M",42.8,2017,1979
+"671",32,"wake-up",0,0,0,1,0,1,"first","TIME WAKE-UP YOU",NA,"M",42.8,2017,1979
+"672",33,"wake-up",0,0,0,0,0,1,"first","TIME DE WAKE-UP",NA,"F",31,2008,1983
+"673",46,"wake-up",0,0,0,0,0,0,"hearing","and when did you get up?","y te levantaste?","M",17,2017,NA
+"674",48,"wake-up",0,0,1,0,0,0,"hearing","What time did you get up today?","Hora que to levantastes hoy?","F",20.6,2017,NA
+"675",49,"wake-up",1,0,0,0,0,0,"hearing","The time that you get up?","La hora que te levantas?","M",32.2,2017,NA
+"676",3,"wake-up",0,1,0,0,0,1,"second","TIME MORNING EYES WAKE-UP GET-UP WAKE-UP TIME",NA,"F",21.8,2008,1990
